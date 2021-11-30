@@ -1,0 +1,44 @@
+@startuml
+
+class Carbink{
+
+}
+
+Carbink --> Tackle
+Carbink --> Facked
+Carbink --> Calm_Mind
+Carbink --> DoubleTeam
+
+
+Dusclops --> Duskull
+Dusclops --> Screech
+
+Dusknoir --> Screech
+Dusknoir --> Swegger
+Dusknoir --> RockSlide
+Dusknoir --> MegaDrain
+
+Duskull --> Swegger
+Duskull --> DoubleTeam
+
+
+Magcargo --> Thunder_Wave
+Magcargo --> DoubleTeam
+Magcargo --> Calm_Mind
+
+Slugma --> RockSlide
+Slugma --> Screech
+Slugma --> DoubleTeam
+Slugma --> MegaDrain
+
+
+
+
+
+
+
+
+
+
+
+@enduml
