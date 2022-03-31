@@ -1,10 +1,5 @@
 package Itmo_projects.pokemon;
 
-import Itmo_projects.move.DoubleTeam;
-
-import Itmo_projects.move.Calm_Mind;
-import Itmo_projects.move.Facade;
-import Itmo_projects.move.Tackle;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 

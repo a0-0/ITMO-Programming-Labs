@@ -1,9 +1,5 @@
 package Itmo_projects.pokemon;
 
-import Itmo_projects.move.DoubleTeam;
-import Itmo_projects.move.RockSlide;
-import Itmo_projects.move.Screech;
-import Itmo_projects.move.Swagger;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 
