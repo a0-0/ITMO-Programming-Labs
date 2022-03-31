@@ -2139,3 +2139,6 @@
 2021-12-16 19:46:01,531 ERROR l.Log [Thread-0] effected eof
 2021-12-16 19:46:01,531 ERROR l.Log [Thread-0] effected eof
 2021-12-16 19:46:01,532 ERROR l.Log [Thread-0] effected eof
+2022-03-31 14:29:22,925 ERROR l.Log [main] Expected arguments: port file_name
+2022-03-31 14:30:58,320 ERROR l.Log [main] Expected arguments: port file_name
+2022-03-31 14:40:56,873 ERROR l.Log [main] Lab6

@@ -1,32 +1,32 @@
 connection/ConnectionManagerImpl.java
  connection.ConnectionManagerImpl
-request/RequestCreator.java
- request.RequestCreator
-request/RequestSender.java
- request.RequestSender
-commands/ClientHelpCommand.java
- commands.ClientHelpCommand
-request/RequestSenderImpl.java
- request.RequestSenderImpl
-response/ResponseReader.java
- response.ResponseReader
-connection/ConnectionManager.java
- connection.ConnectionManager
-response/ResponseReaderImpl.java
- response.ResponseReaderImpl
-io/SingleProductReader.java
- io.SingleProductReader
-commands/CommandInvoker.java
- commands.CommandInvoker
-io/ConsoleProductParser.java
- io.ConsoleProductParser
-io/ScriptProductParser.java
- io.ScriptProductParser
-commands/ExitCommand.java
- commands.ExitCommand
 commands/ExecuteScriptCommand.java
  commands.ExecuteScriptCommand
-client/Main.java
- client.Main
+io/ScriptProductParser.java
+ io.ScriptProductParser
+commands/ClientHelpCommand.java
+ commands.ClientHelpCommand
+response/ResponseReaderImpl.java
+ response.ResponseReaderImpl
 client/Application.java
  client.Application
+commands/CommandInvoker.java
+ commands.CommandInvoker
+request/RequestCreator.java
+ request.RequestCreator
+io/SingleProductReader.java
+ io.SingleProductReader
+request/RequestSender.java
+ request.RequestSender
+connection/ConnectionManager.java
+ connection.ConnectionManager
+commands/ExitCommand.java
+ commands.ExitCommand
+response/ResponseReader.java
+ response.ResponseReader
+request/RequestSenderImpl.java
+ request.RequestSenderImpl
+io/ConsoleProductParser.java
+ io.ConsoleProductParser
+client/Main.java
+ client.Main

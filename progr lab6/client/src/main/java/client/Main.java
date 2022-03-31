@@ -6,7 +6,7 @@ public class Main {
             Application application = new Application(args[0], Integer.parseInt(args[1]));
             application.start();
         } else {
-            System.err.println("usage: program_name address port");
+            System.err.println("Lab6");
         }
     }
 }

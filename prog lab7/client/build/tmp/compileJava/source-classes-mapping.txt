@@ -1,0 +1,38 @@
+connection/ConnectionManagerImpl.java
+ connection.ConnectionManagerImpl
+commands/AuthCommand.java
+ commands.AuthCommand
+response/ResponseReader.java
+ response.ResponseReader
+commands/ClientHelpCommand.java
+ commands.ClientHelpCommand
+client/Main.java
+ client.Main
+connection/ConnectionManager.java
+ connection.ConnectionManager
+commands/RegisterCommand.java
+ commands.RegisterCommand
+response/ResponseReaderImpl.java
+ response.ResponseReaderImpl
+request/RequestSender.java
+ request.RequestSender
+commands/ExitCommand.java
+ commands.ExitCommand
+commands/ExecuteScriptCommand.java
+ commands.ExecuteScriptCommand
+io/ScriptProductParser.java
+ io.ScriptProductParser
+client/AuthModule.java
+ client.AuthModule
+request/RequestSenderImpl.java
+ request.RequestSenderImpl
+io/ConsoleProductParser.java
+ io.ConsoleProductParser
+client/Application.java
+ client.Application
+commands/CommandInvoker.java
+ commands.CommandInvoker
+request/RequestCreator.java
+ request.RequestCreator
+io/SingleProductReader.java
+ io.SingleProductReader

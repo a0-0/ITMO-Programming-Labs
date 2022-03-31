@@ -12,7 +12,7 @@ public class Server {
                 Log.getLogger().error("Invalid port");
             }
         } else {
-            Log.getLogger().error("Expected arguments: port file_name");
+            Log.getLogger().error("Lab6");
         }
     }
 }
