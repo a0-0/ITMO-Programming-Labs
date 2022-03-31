@@ -1,0 +1,2141 @@
+2021-12-16 15:37:09,930 INFO l.Log [main] Hello, world!
+2021-12-16 15:37:11,197 INFO l.Log [main] Открыт канал на порте 60000
+2021-12-16 15:44:11,770 INFO l.Log [main] Hello, world!
+2021-12-16 15:44:12,132 INFO l.Log [main] Открыт канал на порте 60000
+2021-12-16 15:45:24,940 INFO l.Log [main] Соединен с клиентом по адресу /127.0.0.1:54809
+2021-12-16 15:45:24,947 INFO l.Log [main] Десериализация запроса
+2021-12-16 15:45:24,951 INFO l.Log [main] Получен запрос
+2021-12-16 15:45:24,951 INFO l.Log [main] Обработка запроса
+2021-12-16 15:45:24,951 INFO l.Log [main] Клиент спрашивает, нужен ли объект коллекции для обработки этой команды
+2021-12-16 15:45:24,952 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@2fd1433e
+2021-12-16 15:45:24,952 INFO l.Log [main] Отправка запроса
+2021-12-16 15:45:24,952 INFO l.Log [main] Сериализация ответа
+2021-12-16 15:45:24,953 INFO l.Log [main] Запрос отправлен
+2021-12-16 15:45:24,954 INFO l.Log [main] Request{commandName='fasdfsd', product=null}
+2021-12-16 15:45:24,955 INFO l.Log [main] Открыт канал на порте 60000
+2021-12-16 15:45:33,922 INFO l.Log [main] Соединен с клиентом по адресу /127.0.0.1:54812
+2021-12-16 15:45:33,923 INFO l.Log [main] Десериализация запроса
+2021-12-16 15:45:33,923 INFO l.Log [main] Получен запрос
+2021-12-16 15:45:33,923 INFO l.Log [main] Обработка запроса
+2021-12-16 15:45:33,923 INFO l.Log [main] Клиент спрашивает, нужен ли объект коллекции для обработки этой команды
+2021-12-16 15:45:33,923 INFO l.Log [main] Формирование запроса с отрицательным ответом
+2021-12-16 15:45:33,923 INFO l.Log [main] Отправка запроса
+2021-12-16 15:45:33,923 INFO l.Log [main] Сериализация ответа
+2021-12-16 15:45:33,923 INFO l.Log [main] Запрос отправлен
+2021-12-16 15:45:33,923 INFO l.Log [main] Request{commandName='help', product=null}
+2021-12-16 15:45:33,924 INFO l.Log [main] Открыт канал на порте 60000
+2021-12-16 15:45:34,425 INFO l.Log [main] Соединен с клиентом по адресу /127.0.0.1:54813
+2021-12-16 15:45:34,425 INFO l.Log [main] Десериализация запроса
+2021-12-16 15:45:34,425 INFO l.Log [main] Получен запрос
+2021-12-16 15:45:34,425 INFO l.Log [main] Обработка запроса
+2021-12-16 15:45:34,425 INFO l.Log [main] Попытка обработать команду help
+2021-12-16 15:45:34,427 INFO l.Log [main] Отправка запроса
+2021-12-16 15:45:34,427 INFO l.Log [main] Сериализация ответа
+2021-12-16 15:45:34,428 INFO l.Log [main] Запрос отправлен
+2021-12-16 15:45:34,428 INFO l.Log [main] Request{commandName='help', product=null}
+2021-12-16 15:45:34,429 INFO l.Log [main] Открыт канал на порте 60000
+2021-12-16 15:45:47,928 INFO l.Log [main] Соединен с клиентом по адресу /127.0.0.1:54818
+2021-12-16 15:45:47,928 INFO l.Log [main] Десериализация запроса
+2021-12-16 15:45:47,929 INFO l.Log [main] Получен запрос
+2021-12-16 15:45:47,929 INFO l.Log [main] Обработка запроса
+2021-12-16 15:45:47,930 INFO l.Log [main] Клиент спрашивает, нужен ли объект коллекции для обработки этой команды
+2021-12-16 15:45:47,930 INFO l.Log [main] Формирование запроса с отрицательным ответом
+2021-12-16 15:45:47,930 INFO l.Log [main] Отправка запроса
+2021-12-16 15:45:47,930 INFO l.Log [main] Сериализация ответа
+2021-12-16 15:45:47,930 INFO l.Log [main] Запрос отправлен
+2021-12-16 15:45:47,930 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 15:45:47,931 INFO l.Log [main] Открыт канал на порте 60000
+2021-12-16 15:45:48,430 INFO l.Log [main] Соединен с клиентом по адресу /127.0.0.1:54819
+2021-12-16 15:45:48,430 INFO l.Log [main] Десериализация запроса
+2021-12-16 15:45:48,430 INFO l.Log [main] Получен запрос
+2021-12-16 15:45:48,430 INFO l.Log [main] Обработка запроса
+2021-12-16 15:45:48,430 INFO l.Log [main] Попытка обработать команду show
+2021-12-16 15:45:48,431 INFO l.Log [main] Отправка запроса
+2021-12-16 15:45:48,431 INFO l.Log [main] Сериализация ответа
+2021-12-16 15:45:48,431 INFO l.Log [main] Запрос отправлен
+2021-12-16 15:45:48,431 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 15:45:48,432 INFO l.Log [main] Открыт канал на порте 60000
+2021-12-16 15:45:52,930 INFO l.Log [main] Соединен с клиентом по адресу /127.0.0.1:54824
+2021-12-16 15:45:52,931 INFO l.Log [main] Десериализация запроса
+2021-12-16 15:45:52,931 INFO l.Log [main] Получен запрос
+2021-12-16 15:45:52,931 INFO l.Log [main] Обработка запроса
+2021-12-16 15:45:52,931 INFO l.Log [main] Клиент спрашивает, нужен ли объект коллекции для обработки этой команды
+2021-12-16 15:45:52,931 INFO l.Log [main] Формирование запроса с положительным ответом
+2021-12-16 15:45:52,931 INFO l.Log [main] Отправка запроса
+2021-12-16 15:45:52,931 INFO l.Log [main] Сериализация ответа
+2021-12-16 15:45:52,931 INFO l.Log [main] Запрос отправлен
+2021-12-16 15:45:52,931 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 15:45:52,932 INFO l.Log [main] Открыт канал на порте 60000
+2021-12-16 15:45:53,432 INFO l.Log [main] Соединен с клиентом по адресу /127.0.0.1:54825
+2021-12-16 15:47:35,890 INFO l.Log [main] Hello, world!
+2021-12-16 15:47:36,256 INFO l.Log [main] Открыт канал на порте 60000
+2021-12-16 15:49:32,123 INFO l.Log [main] Соединен с клиентом по адресу /127.0.0.1:54868
+2021-12-16 15:49:32,130 INFO l.Log [main] Десериализация запроса
+2021-12-16 15:49:32,135 INFO l.Log [main] Получен запрос
+2021-12-16 15:49:32,135 INFO l.Log [main] Обработка запроса
+2021-12-16 15:49:32,135 INFO l.Log [main] Клиент спрашивает, нужен ли объект коллекции для обработки этой команды
+2021-12-16 15:49:32,136 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@2fd1433e
+2021-12-16 15:49:32,136 INFO l.Log [main] Отправка запроса
+2021-12-16 15:49:32,136 INFO l.Log [main] Сериализация ответа
+2021-12-16 15:49:32,137 INFO l.Log [main] Запрос отправлен
+2021-12-16 15:49:32,138 INFO l.Log [main] Request{commandName='С„РІРІ', product=null}
+2021-12-16 15:49:32,139 INFO l.Log [main] Открыт канал на порте 60000
+2021-12-16 15:49:34,101 INFO l.Log [main] Соединен с клиентом по адресу /127.0.0.1:54871
+2021-12-16 15:49:34,102 INFO l.Log [main] Десериализация запроса
+2021-12-16 15:49:34,102 INFO l.Log [main] Получен запрос
+2021-12-16 15:49:34,102 INFO l.Log [main] Обработка запроса
+2021-12-16 15:49:34,102 INFO l.Log [main] Клиент спрашивает, нужен ли объект коллекции для обработки этой команды
+2021-12-16 15:49:34,102 INFO l.Log [main] Формирование запроса с положительным ответом
+2021-12-16 15:49:34,102 INFO l.Log [main] Отправка запроса
+2021-12-16 15:49:34,102 INFO l.Log [main] Сериализация ответа
+2021-12-16 15:49:34,102 INFO l.Log [main] Запрос отправлен
+2021-12-16 15:49:34,102 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 15:49:34,103 INFO l.Log [main] Открыт канал на порте 60000
+2021-12-16 15:49:34,603 INFO l.Log [main] Соединен с клиентом по адресу /127.0.0.1:54872
+2021-12-16 15:49:49,128 INFO l.Log [main] Десериализация запроса
+2021-12-16 15:49:49,133 INFO l.Log [main] Получен запрос
+2021-12-16 15:49:49,133 INFO l.Log [main] Обработка запроса
+2021-12-16 15:49:49,133 INFO l.Log [main] Попытка обработать команду add
+2021-12-16 15:49:49,133 INFO l.Log [main] Отправка запроса
+2021-12-16 15:49:49,133 INFO l.Log [main] Сериализация ответа
+2021-12-16 15:49:49,134 INFO l.Log [main] Запрос отправлен
+2021-12-16 15:49:49,134 INFO l.Log [main] Request{commandName='add', product=Product{id=1, name='123', coordinates=Coordinates{x=123.0, y=123}, creationDate=2021-12-16T15:49:49.118, price=123, partNumber='123', manufactureCost=123, unitOfMeasure=PCS, manufacturer=model.Organization@4a7f959b}}
+2021-12-16 15:49:49,135 INFO l.Log [main] Открыт канал на порте 60000
+2021-12-16 15:49:51,107 INFO l.Log [main] Соединен с клиентом по адресу /127.0.0.1:54878
+2021-12-16 15:49:51,107 INFO l.Log [main] Десериализация запроса
+2021-12-16 15:49:51,108 INFO l.Log [main] Получен запрос
+2021-12-16 15:49:51,108 INFO l.Log [main] Обработка запроса
+2021-12-16 15:49:51,109 INFO l.Log [main] Клиент спрашивает, нужен ли объект коллекции для обработки этой команды
+2021-12-16 15:49:51,109 INFO l.Log [main] Формирование запроса с отрицательным ответом
+2021-12-16 15:49:51,109 INFO l.Log [main] Отправка запроса
+2021-12-16 15:49:51,109 INFO l.Log [main] Сериализация ответа
+2021-12-16 15:49:51,109 INFO l.Log [main] Запрос отправлен
+2021-12-16 15:49:51,109 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 15:49:51,110 INFO l.Log [main] Открыт канал на порте 60000
+2021-12-16 15:49:51,609 INFO l.Log [main] Соединен с клиентом по адресу /127.0.0.1:54879
+2021-12-16 15:49:51,609 INFO l.Log [main] Десериализация запроса
+2021-12-16 15:49:51,609 INFO l.Log [main] Получен запрос
+2021-12-16 15:49:51,609 INFO l.Log [main] Обработка запроса
+2021-12-16 15:49:51,609 INFO l.Log [main] Попытка обработать команду show
+2021-12-16 15:49:51,610 INFO l.Log [main] Отправка запроса
+2021-12-16 15:49:51,610 INFO l.Log [main] Сериализация ответа
+2021-12-16 15:49:51,610 INFO l.Log [main] Запрос отправлен
+2021-12-16 15:49:51,611 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 15:49:51,611 INFO l.Log [main] Открыт канал на порте 60000
+2021-12-16 18:22:51,854 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:23:09,733 INFO l.Log [main] Connected to the client at /127.0.0.1:65324
+2021-12-16 18:23:09,741 INFO l.Log [main] Deserialization request
+2021-12-16 18:23:09,745 INFO l.Log [main] request received
+2021-12-16 18:23:09,745 INFO l.Log [main] Processing request
+2021-12-16 18:23:09,745 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:23:09,746 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:23:09,746 INFO l.Log [main] Sending response
+2021-12-16 18:23:09,746 INFO l.Log [main] Serializing response
+2021-12-16 18:23:09,747 INFO l.Log [main] Response sent
+2021-12-16 18:23:09,748 INFO l.Log [main] Request{commandName='help', product=null}
+2021-12-16 18:23:09,748 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:23:09,780 INFO l.Log [main] Connected to the client at /127.0.0.1:65327
+2021-12-16 18:23:09,780 INFO l.Log [main] Deserialization request
+2021-12-16 18:23:09,780 INFO l.Log [main] request received
+2021-12-16 18:23:09,780 INFO l.Log [main] Processing request
+2021-12-16 18:23:09,780 INFO l.Log [main] Try to process help command
+2021-12-16 18:23:09,782 INFO l.Log [main] Sending response
+2021-12-16 18:23:09,782 INFO l.Log [main] Serializing response
+2021-12-16 18:23:09,782 INFO l.Log [main] Response sent
+2021-12-16 18:23:09,782 INFO l.Log [main] Request{commandName='help', product=null}
+2021-12-16 18:23:09,783 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:23:15,717 INFO l.Log [main] Connected to the client at /127.0.0.1:65330
+2021-12-16 18:23:15,717 INFO l.Log [main] Deserialization request
+2021-12-16 18:23:15,718 INFO l.Log [main] request received
+2021-12-16 18:23:15,718 INFO l.Log [main] Processing request
+2021-12-16 18:23:15,718 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:23:15,718 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:23:15,718 INFO l.Log [main] Sending response
+2021-12-16 18:23:15,718 INFO l.Log [main] Serializing response
+2021-12-16 18:23:15,718 INFO l.Log [main] Response sent
+2021-12-16 18:23:15,718 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:23:15,719 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:23:16,219 INFO l.Log [main] Connected to the client at /127.0.0.1:65331
+2021-12-16 18:23:16,219 INFO l.Log [main] Deserialization request
+2021-12-16 18:23:16,219 INFO l.Log [main] request received
+2021-12-16 18:23:16,219 INFO l.Log [main] Processing request
+2021-12-16 18:23:16,219 INFO l.Log [main] Try to process show command
+2021-12-16 18:23:16,220 INFO l.Log [main] Sending response
+2021-12-16 18:23:16,220 INFO l.Log [main] Serializing response
+2021-12-16 18:23:16,220 INFO l.Log [main] Response sent
+2021-12-16 18:23:16,220 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:23:16,221 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:23:18,719 INFO l.Log [main] Connected to the client at /127.0.0.1:65336
+2021-12-16 18:23:18,720 INFO l.Log [main] Deserialization request
+2021-12-16 18:23:18,720 INFO l.Log [main] request received
+2021-12-16 18:23:18,720 INFO l.Log [main] Processing request
+2021-12-16 18:23:18,720 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:23:18,720 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:23:18,720 INFO l.Log [main] Sending response
+2021-12-16 18:23:18,720 INFO l.Log [main] Serializing response
+2021-12-16 18:23:18,720 INFO l.Log [main] Response sent
+2021-12-16 18:23:18,720 INFO l.Log [main] Request{commandName='info', product=null}
+2021-12-16 18:23:18,721 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:23:19,221 INFO l.Log [main] Connected to the client at /127.0.0.1:65337
+2021-12-16 18:23:19,221 INFO l.Log [main] Deserialization request
+2021-12-16 18:23:19,221 INFO l.Log [main] request received
+2021-12-16 18:23:19,221 INFO l.Log [main] Processing request
+2021-12-16 18:23:19,221 INFO l.Log [main] Try to process info command
+2021-12-16 18:23:19,221 INFO l.Log [main] Sending response
+2021-12-16 18:23:19,221 INFO l.Log [main] Serializing response
+2021-12-16 18:23:19,222 INFO l.Log [main] Response sent
+2021-12-16 18:23:19,222 INFO l.Log [main] Request{commandName='info', product=null}
+2021-12-16 18:23:19,223 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:23:21,721 INFO l.Log [main] Connected to the client at /127.0.0.1:65342
+2021-12-16 18:23:21,721 INFO l.Log [main] Deserialization request
+2021-12-16 18:23:21,722 INFO l.Log [main] request received
+2021-12-16 18:23:21,722 INFO l.Log [main] Processing request
+2021-12-16 18:23:21,722 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:23:21,722 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:23:21,722 INFO l.Log [main] Sending response
+2021-12-16 18:23:21,722 INFO l.Log [main] Serializing response
+2021-12-16 18:23:21,723 INFO l.Log [main] Response sent
+2021-12-16 18:23:21,723 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:23:21,724 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:23:38,729 INFO l.Log [main] Connected to the client at /127.0.0.1:65346
+2021-12-16 18:23:38,729 INFO l.Log [main] Deserialization request
+2021-12-16 18:23:38,730 INFO l.Log [main] request received
+2021-12-16 18:23:38,730 INFO l.Log [main] Processing request
+2021-12-16 18:23:38,730 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:23:38,730 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:23:38,730 INFO l.Log [main] Sending response
+2021-12-16 18:23:38,730 INFO l.Log [main] Serializing response
+2021-12-16 18:23:38,730 INFO l.Log [main] Response sent
+2021-12-16 18:23:38,730 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:23:38,731 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:23:39,232 INFO l.Log [main] Connected to the client at /127.0.0.1:65347
+2021-12-16 18:23:39,232 INFO l.Log [main] Deserialization request
+2021-12-16 18:23:39,232 INFO l.Log [main] request received
+2021-12-16 18:23:39,232 INFO l.Log [main] Processing request
+2021-12-16 18:23:39,232 INFO l.Log [main] Try to process clear command
+2021-12-16 18:23:39,232 INFO l.Log [main] Sending response
+2021-12-16 18:23:39,232 INFO l.Log [main] Serializing response
+2021-12-16 18:23:39,233 INFO l.Log [main] Response sent
+2021-12-16 18:23:39,233 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:23:39,234 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:23:45,732 INFO l.Log [main] Connected to the client at /127.0.0.1:65352
+2021-12-16 18:23:45,732 INFO l.Log [main] Deserialization request
+2021-12-16 18:23:45,732 INFO l.Log [main] request received
+2021-12-16 18:23:45,732 INFO l.Log [main] Processing request
+2021-12-16 18:23:45,732 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:23:45,732 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:23:45,732 INFO l.Log [main] Sending response
+2021-12-16 18:23:45,732 INFO l.Log [main] Serializing response
+2021-12-16 18:23:45,732 INFO l.Log [main] Response sent
+2021-12-16 18:23:45,733 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:23:45,733 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:23:46,233 INFO l.Log [main] Connected to the client at /127.0.0.1:65353
+2021-12-16 18:23:46,233 INFO l.Log [main] Deserialization request
+2021-12-16 18:23:46,233 INFO l.Log [main] request received
+2021-12-16 18:23:46,233 INFO l.Log [main] Processing request
+2021-12-16 18:23:46,233 INFO l.Log [main] Try to process show command
+2021-12-16 18:23:46,233 INFO l.Log [main] Sending response
+2021-12-16 18:23:46,233 INFO l.Log [main] Serializing response
+2021-12-16 18:23:46,234 INFO l.Log [main] Response sent
+2021-12-16 18:23:46,234 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:23:46,234 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:23:48,732 INFO l.Log [main] Connected to the client at /127.0.0.1:65358
+2021-12-16 18:23:48,732 INFO l.Log [main] Deserialization request
+2021-12-16 18:23:48,733 INFO l.Log [main] request received
+2021-12-16 18:23:48,733 INFO l.Log [main] Processing request
+2021-12-16 18:23:48,733 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:23:48,733 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:23:48,733 INFO l.Log [main] Sending response
+2021-12-16 18:23:48,733 INFO l.Log [main] Serializing response
+2021-12-16 18:23:48,733 INFO l.Log [main] Response sent
+2021-12-16 18:23:48,733 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:23:48,734 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:23:49,234 INFO l.Log [main] Connected to the client at /127.0.0.1:65359
+2021-12-16 18:23:49,234 INFO l.Log [main] Deserialization request
+2021-12-16 18:23:49,234 INFO l.Log [main] request received
+2021-12-16 18:23:49,234 INFO l.Log [main] Processing request
+2021-12-16 18:23:49,234 INFO l.Log [main] Try to process clear command
+2021-12-16 18:23:49,234 INFO l.Log [main] Sending response
+2021-12-16 18:23:49,234 INFO l.Log [main] Serializing response
+2021-12-16 18:23:49,235 INFO l.Log [main] Response sent
+2021-12-16 18:23:49,235 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:23:49,236 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:23:55,088 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,089 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,089 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,089 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,089 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,089 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,089 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,089 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,089 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,089 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,089 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,089 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,090 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,090 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,090 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,090 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,090 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,090 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:55,090 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:23:58,222 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:06,008 INFO l.Log [main] Connected to the client at /127.0.0.1:65383
+2021-12-16 18:24:06,015 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:06,020 INFO l.Log [main] request received
+2021-12-16 18:24:06,020 INFO l.Log [main] Processing request
+2021-12-16 18:24:06,020 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:24:06,020 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:24:06,020 INFO l.Log [main] Sending response
+2021-12-16 18:24:06,020 INFO l.Log [main] Serializing response
+2021-12-16 18:24:06,022 INFO l.Log [main] Response sent
+2021-12-16 18:24:06,022 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:24:06,023 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:06,054 INFO l.Log [main] Connected to the client at /127.0.0.1:65386
+2021-12-16 18:24:06,054 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:06,054 INFO l.Log [main] request received
+2021-12-16 18:24:06,054 INFO l.Log [main] Processing request
+2021-12-16 18:24:06,054 INFO l.Log [main] Try to process clear command
+2021-12-16 18:24:06,054 INFO l.Log [main] Sending response
+2021-12-16 18:24:06,054 INFO l.Log [main] Serializing response
+2021-12-16 18:24:06,054 INFO l.Log [main] Response sent
+2021-12-16 18:24:06,055 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:24:06,055 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:08,991 INFO l.Log [main] Connected to the client at /127.0.0.1:65389
+2021-12-16 18:24:08,991 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:08,992 INFO l.Log [main] request received
+2021-12-16 18:24:08,992 INFO l.Log [main] Processing request
+2021-12-16 18:24:08,992 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:24:08,992 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:24:08,992 INFO l.Log [main] Sending response
+2021-12-16 18:24:08,992 INFO l.Log [main] Serializing response
+2021-12-16 18:24:08,992 INFO l.Log [main] Response sent
+2021-12-16 18:24:08,992 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:24:08,993 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:09,493 INFO l.Log [main] Connected to the client at /127.0.0.1:65390
+2021-12-16 18:24:09,493 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:09,493 INFO l.Log [main] request received
+2021-12-16 18:24:09,493 INFO l.Log [main] Processing request
+2021-12-16 18:24:09,493 INFO l.Log [main] Try to process show command
+2021-12-16 18:24:09,494 INFO l.Log [main] Sending response
+2021-12-16 18:24:09,494 INFO l.Log [main] Serializing response
+2021-12-16 18:24:09,494 INFO l.Log [main] Response sent
+2021-12-16 18:24:09,494 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:24:09,495 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:13,992 INFO l.Log [main] Connected to the client at /127.0.0.1:65395
+2021-12-16 18:24:13,993 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:13,993 INFO l.Log [main] request received
+2021-12-16 18:24:13,993 INFO l.Log [main] Processing request
+2021-12-16 18:24:13,993 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:24:13,993 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:24:13,993 INFO l.Log [main] Sending response
+2021-12-16 18:24:13,993 INFO l.Log [main] Serializing response
+2021-12-16 18:24:13,993 INFO l.Log [main] Response sent
+2021-12-16 18:24:13,993 INFO l.Log [main] Request{commandName='info', product=null}
+2021-12-16 18:24:13,994 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:14,495 INFO l.Log [main] Connected to the client at /127.0.0.1:65396
+2021-12-16 18:24:14,495 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:14,495 INFO l.Log [main] request received
+2021-12-16 18:24:14,495 INFO l.Log [main] Processing request
+2021-12-16 18:24:14,495 INFO l.Log [main] Try to process info command
+2021-12-16 18:24:14,496 INFO l.Log [main] Sending response
+2021-12-16 18:24:14,496 INFO l.Log [main] Serializing response
+2021-12-16 18:24:14,496 INFO l.Log [main] Response sent
+2021-12-16 18:24:14,496 INFO l.Log [main] Request{commandName='info', product=null}
+2021-12-16 18:24:14,497 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:16,993 INFO l.Log [main] Connected to the client at /127.0.0.1:65401
+2021-12-16 18:24:16,993 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:16,994 INFO l.Log [main] request received
+2021-12-16 18:24:16,994 INFO l.Log [main] Processing request
+2021-12-16 18:24:16,994 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:24:16,994 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:24:16,994 INFO l.Log [main] Sending response
+2021-12-16 18:24:16,994 INFO l.Log [main] Serializing response
+2021-12-16 18:24:16,995 INFO l.Log [main] Response sent
+2021-12-16 18:24:16,995 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:24:16,996 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:26,997 INFO l.Log [main] Connected to the client at /127.0.0.1:65405
+2021-12-16 18:24:26,997 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:26,998 INFO l.Log [main] request received
+2021-12-16 18:24:26,998 INFO l.Log [main] Processing request
+2021-12-16 18:24:26,998 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:24:26,998 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:24:26,998 INFO l.Log [main] Sending response
+2021-12-16 18:24:26,998 INFO l.Log [main] Serializing response
+2021-12-16 18:24:26,998 INFO l.Log [main] Response sent
+2021-12-16 18:24:26,998 INFO l.Log [main] Request{commandName='info', product=null}
+2021-12-16 18:24:26,999 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:27,499 INFO l.Log [main] Connected to the client at /127.0.0.1:65406
+2021-12-16 18:24:27,499 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:27,499 INFO l.Log [main] request received
+2021-12-16 18:24:27,499 INFO l.Log [main] Processing request
+2021-12-16 18:24:27,499 INFO l.Log [main] Try to process info command
+2021-12-16 18:24:27,499 INFO l.Log [main] Sending response
+2021-12-16 18:24:27,499 INFO l.Log [main] Serializing response
+2021-12-16 18:24:27,500 INFO l.Log [main] Response sent
+2021-12-16 18:24:27,500 INFO l.Log [main] Request{commandName='info', product=null}
+2021-12-16 18:24:27,501 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:30,998 INFO l.Log [main] Connected to the client at /127.0.0.1:65411
+2021-12-16 18:24:30,998 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:30,999 INFO l.Log [main] request received
+2021-12-16 18:24:30,999 INFO l.Log [main] Processing request
+2021-12-16 18:24:30,999 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:24:30,999 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:24:30,999 INFO l.Log [main] Sending response
+2021-12-16 18:24:30,999 INFO l.Log [main] Serializing response
+2021-12-16 18:24:30,999 INFO l.Log [main] Response sent
+2021-12-16 18:24:30,999 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:24:31,000 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:31,500 INFO l.Log [main] Connected to the client at /127.0.0.1:65412
+2021-12-16 18:24:31,500 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:31,500 INFO l.Log [main] request received
+2021-12-16 18:24:31,500 INFO l.Log [main] Processing request
+2021-12-16 18:24:31,500 INFO l.Log [main] Try to process clear command
+2021-12-16 18:24:31,500 INFO l.Log [main] Sending response
+2021-12-16 18:24:31,500 INFO l.Log [main] Serializing response
+2021-12-16 18:24:31,501 INFO l.Log [main] Response sent
+2021-12-16 18:24:31,501 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:24:31,502 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:32,999 INFO l.Log [main] Connected to the client at /127.0.0.1:65417
+2021-12-16 18:24:32,999 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:33,000 INFO l.Log [main] request received
+2021-12-16 18:24:33,000 INFO l.Log [main] Processing request
+2021-12-16 18:24:33,000 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:24:33,000 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:24:33,000 INFO l.Log [main] Sending response
+2021-12-16 18:24:33,000 INFO l.Log [main] Serializing response
+2021-12-16 18:24:33,000 INFO l.Log [main] Response sent
+2021-12-16 18:24:33,000 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:24:33,001 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:33,501 INFO l.Log [main] Connected to the client at /127.0.0.1:65418
+2021-12-16 18:24:33,501 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:33,501 INFO l.Log [main] request received
+2021-12-16 18:24:33,501 INFO l.Log [main] Processing request
+2021-12-16 18:24:33,501 INFO l.Log [main] Try to process clear command
+2021-12-16 18:24:33,501 INFO l.Log [main] Sending response
+2021-12-16 18:24:33,501 INFO l.Log [main] Serializing response
+2021-12-16 18:24:33,502 INFO l.Log [main] Response sent
+2021-12-16 18:24:33,502 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:24:33,503 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:34,999 INFO l.Log [main] Connected to the client at /127.0.0.1:65423
+2021-12-16 18:24:34,999 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:35,000 INFO l.Log [main] request received
+2021-12-16 18:24:35,000 INFO l.Log [main] Processing request
+2021-12-16 18:24:35,000 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:24:35,000 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:24:35,000 INFO l.Log [main] Sending response
+2021-12-16 18:24:35,000 INFO l.Log [main] Serializing response
+2021-12-16 18:24:35,000 INFO l.Log [main] Response sent
+2021-12-16 18:24:35,000 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:24:35,001 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:35,502 INFO l.Log [main] Connected to the client at /127.0.0.1:65424
+2021-12-16 18:24:35,502 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:35,502 INFO l.Log [main] request received
+2021-12-16 18:24:35,502 INFO l.Log [main] Processing request
+2021-12-16 18:24:35,502 INFO l.Log [main] Try to process clear command
+2021-12-16 18:24:35,502 INFO l.Log [main] Sending response
+2021-12-16 18:24:35,502 INFO l.Log [main] Serializing response
+2021-12-16 18:24:35,502 INFO l.Log [main] Response sent
+2021-12-16 18:24:35,503 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:24:35,503 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:37,000 INFO l.Log [main] Connected to the client at /127.0.0.1:65429
+2021-12-16 18:24:37,000 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:37,000 INFO l.Log [main] request received
+2021-12-16 18:24:37,000 INFO l.Log [main] Processing request
+2021-12-16 18:24:37,000 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:24:37,000 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:24:37,000 INFO l.Log [main] Sending response
+2021-12-16 18:24:37,000 INFO l.Log [main] Serializing response
+2021-12-16 18:24:37,000 INFO l.Log [main] Response sent
+2021-12-16 18:24:37,001 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:24:37,001 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:37,501 INFO l.Log [main] Connected to the client at /127.0.0.1:65430
+2021-12-16 18:24:37,501 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:37,501 INFO l.Log [main] request received
+2021-12-16 18:24:37,501 INFO l.Log [main] Processing request
+2021-12-16 18:24:37,501 INFO l.Log [main] Try to process clear command
+2021-12-16 18:24:37,501 INFO l.Log [main] Sending response
+2021-12-16 18:24:37,501 INFO l.Log [main] Serializing response
+2021-12-16 18:24:37,501 INFO l.Log [main] Response sent
+2021-12-16 18:24:37,502 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:24:37,502 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:38,999 INFO l.Log [main] Connected to the client at /127.0.0.1:65435
+2021-12-16 18:24:38,999 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:39,000 INFO l.Log [main] request received
+2021-12-16 18:24:39,000 INFO l.Log [main] Processing request
+2021-12-16 18:24:39,000 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:24:39,000 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:24:39,000 INFO l.Log [main] Sending response
+2021-12-16 18:24:39,000 INFO l.Log [main] Serializing response
+2021-12-16 18:24:39,000 INFO l.Log [main] Response sent
+2021-12-16 18:24:39,000 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:24:39,001 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:39,502 INFO l.Log [main] Connected to the client at /127.0.0.1:65436
+2021-12-16 18:24:39,502 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:39,502 INFO l.Log [main] request received
+2021-12-16 18:24:39,502 INFO l.Log [main] Processing request
+2021-12-16 18:24:39,502 INFO l.Log [main] Try to process show command
+2021-12-16 18:24:39,502 INFO l.Log [main] Sending response
+2021-12-16 18:24:39,502 INFO l.Log [main] Serializing response
+2021-12-16 18:24:39,503 INFO l.Log [main] Response sent
+2021-12-16 18:24:39,503 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:24:39,504 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:41,001 INFO l.Log [main] Connected to the client at /127.0.0.1:65441
+2021-12-16 18:24:41,001 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:41,002 INFO l.Log [main] request received
+2021-12-16 18:24:41,002 INFO l.Log [main] Processing request
+2021-12-16 18:24:41,002 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:24:41,002 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:24:41,002 INFO l.Log [main] Sending response
+2021-12-16 18:24:41,002 INFO l.Log [main] Serializing response
+2021-12-16 18:24:41,002 INFO l.Log [main] Response sent
+2021-12-16 18:24:41,002 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:24:41,003 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:41,503 INFO l.Log [main] Connected to the client at /127.0.0.1:65442
+2021-12-16 18:24:41,503 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:41,503 INFO l.Log [main] request received
+2021-12-16 18:24:41,503 INFO l.Log [main] Processing request
+2021-12-16 18:24:41,503 INFO l.Log [main] Try to process clear command
+2021-12-16 18:24:41,503 INFO l.Log [main] Sending response
+2021-12-16 18:24:41,503 INFO l.Log [main] Serializing response
+2021-12-16 18:24:41,503 INFO l.Log [main] Response sent
+2021-12-16 18:24:41,504 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:24:41,504 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:43,001 INFO l.Log [main] Connected to the client at /127.0.0.1:65447
+2021-12-16 18:24:43,001 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:43,002 INFO l.Log [main] request received
+2021-12-16 18:24:43,002 INFO l.Log [main] Processing request
+2021-12-16 18:24:43,002 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:24:43,002 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:24:43,002 INFO l.Log [main] Sending response
+2021-12-16 18:24:43,002 INFO l.Log [main] Serializing response
+2021-12-16 18:24:43,002 INFO l.Log [main] Response sent
+2021-12-16 18:24:43,002 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:24:43,003 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:43,504 INFO l.Log [main] Connected to the client at /127.0.0.1:65448
+2021-12-16 18:24:43,504 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:43,504 INFO l.Log [main] request received
+2021-12-16 18:24:43,504 INFO l.Log [main] Processing request
+2021-12-16 18:24:43,504 INFO l.Log [main] Try to process show command
+2021-12-16 18:24:43,504 INFO l.Log [main] Sending response
+2021-12-16 18:24:43,504 INFO l.Log [main] Serializing response
+2021-12-16 18:24:43,504 INFO l.Log [main] Response sent
+2021-12-16 18:24:43,505 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:24:43,505 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:46,003 INFO l.Log [main] Connected to the client at /127.0.0.1:65453
+2021-12-16 18:24:46,003 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:46,004 INFO l.Log [main] request received
+2021-12-16 18:24:46,004 INFO l.Log [main] Processing request
+2021-12-16 18:24:46,004 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:24:46,004 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:24:46,004 INFO l.Log [main] Sending response
+2021-12-16 18:24:46,004 INFO l.Log [main] Serializing response
+2021-12-16 18:24:46,004 INFO l.Log [main] Response sent
+2021-12-16 18:24:46,004 INFO l.Log [main] Request{commandName='info', product=null}
+2021-12-16 18:24:46,005 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:46,506 INFO l.Log [main] Connected to the client at /127.0.0.1:65454
+2021-12-16 18:24:46,506 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:46,506 INFO l.Log [main] request received
+2021-12-16 18:24:46,506 INFO l.Log [main] Processing request
+2021-12-16 18:24:46,506 INFO l.Log [main] Try to process info command
+2021-12-16 18:24:46,506 INFO l.Log [main] Sending response
+2021-12-16 18:24:46,506 INFO l.Log [main] Serializing response
+2021-12-16 18:24:46,507 INFO l.Log [main] Response sent
+2021-12-16 18:24:46,507 INFO l.Log [main] Request{commandName='info', product=null}
+2021-12-16 18:24:46,508 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:48,003 INFO l.Log [main] Connected to the client at /127.0.0.1:65459
+2021-12-16 18:24:48,003 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:48,004 INFO l.Log [main] request received
+2021-12-16 18:24:48,004 INFO l.Log [main] Processing request
+2021-12-16 18:24:48,004 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:24:48,004 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:24:48,004 INFO l.Log [main] Sending response
+2021-12-16 18:24:48,004 INFO l.Log [main] Serializing response
+2021-12-16 18:24:48,004 INFO l.Log [main] Response sent
+2021-12-16 18:24:48,004 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:24:48,005 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:24:48,505 INFO l.Log [main] Connected to the client at /127.0.0.1:65460
+2021-12-16 18:24:48,505 INFO l.Log [main] Deserialization request
+2021-12-16 18:24:48,505 INFO l.Log [main] request received
+2021-12-16 18:24:48,505 INFO l.Log [main] Processing request
+2021-12-16 18:24:48,505 INFO l.Log [main] Try to process clear command
+2021-12-16 18:24:48,505 INFO l.Log [main] Sending response
+2021-12-16 18:24:48,505 INFO l.Log [main] Serializing response
+2021-12-16 18:24:48,505 INFO l.Log [main] Response sent
+2021-12-16 18:24:48,506 INFO l.Log [main] Request{commandName='clear', product=null}
+2021-12-16 18:24:48,506 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:25:30,775 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:25:30,775 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:25:30,775 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:25:30,775 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:25:30,775 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:25:30,775 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:25:30,775 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:25:30,776 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:25:30,776 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:25:30,776 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:25:30,776 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:25:30,776 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:25:30,776 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:25:30,776 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:25:33,878 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:25:42,342 INFO l.Log [main] Connected to the client at /127.0.0.1:65492
+2021-12-16 18:25:42,350 INFO l.Log [main] Deserialization request
+2021-12-16 18:25:42,354 INFO l.Log [main] request received
+2021-12-16 18:25:42,354 INFO l.Log [main] Processing request
+2021-12-16 18:25:42,354 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:25:42,354 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:25:42,354 INFO l.Log [main] Sending response
+2021-12-16 18:25:42,355 INFO l.Log [main] Serializing response
+2021-12-16 18:25:42,356 INFO l.Log [main] Response sent
+2021-12-16 18:25:42,357 INFO l.Log [main] Request{commandName='help', product=null}
+2021-12-16 18:25:42,358 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:25:42,388 INFO l.Log [main] Connected to the client at /127.0.0.1:65495
+2021-12-16 18:25:42,389 INFO l.Log [main] Deserialization request
+2021-12-16 18:25:42,389 INFO l.Log [main] request received
+2021-12-16 18:25:42,389 INFO l.Log [main] Processing request
+2021-12-16 18:25:42,389 INFO l.Log [main] Try to process help command
+2021-12-16 18:25:42,390 INFO l.Log [main] Sending response
+2021-12-16 18:25:42,390 INFO l.Log [main] Serializing response
+2021-12-16 18:25:42,390 INFO l.Log [main] Response sent
+2021-12-16 18:25:42,391 INFO l.Log [main] Request{commandName='help', product=null}
+2021-12-16 18:25:42,391 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:25:47,326 INFO l.Log [main] Connected to the client at /127.0.0.1:65498
+2021-12-16 18:25:47,326 INFO l.Log [main] Deserialization request
+2021-12-16 18:25:47,327 INFO l.Log [main] request received
+2021-12-16 18:25:47,327 INFO l.Log [main] Processing request
+2021-12-16 18:25:47,327 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:25:47,327 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 18:25:47,327 INFO l.Log [main] Sending response
+2021-12-16 18:25:47,327 INFO l.Log [main] Serializing response
+2021-12-16 18:25:47,327 INFO l.Log [main] Response sent
+2021-12-16 18:25:47,327 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 18:25:47,328 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:25:47,829 INFO l.Log [main] Connected to the client at /127.0.0.1:65499
+2021-12-16 18:26:07,355 INFO l.Log [main] Deserialization request
+2021-12-16 18:26:07,359 INFO l.Log [main] request received
+2021-12-16 18:26:07,359 INFO l.Log [main] Processing request
+2021-12-16 18:26:07,359 INFO l.Log [main] Try to process add command
+2021-12-16 18:26:07,359 INFO l.Log [main] Sending response
+2021-12-16 18:26:07,359 INFO l.Log [main] Serializing response
+2021-12-16 18:26:07,359 INFO l.Log [main] Response sent
+2021-12-16 18:26:07,360 INFO l.Log [main] Request{commandName='add', product=Product{id=1, name='123', coordinates=Coordinates{x=123.0, y=123}, creationDate=2021-12-16T18:26:07.345, price=123, partNumber='123', manufactureCost=123, unitOfMeasure=PCS, manufacturer=model.Organization@3d5c822d}}
+2021-12-16 18:26:07,361 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:26:09,334 INFO l.Log [main] Connected to the client at /127.0.0.1:65504
+2021-12-16 18:26:09,334 INFO l.Log [main] Deserialization request
+2021-12-16 18:26:09,335 INFO l.Log [main] request received
+2021-12-16 18:26:09,335 INFO l.Log [main] Processing request
+2021-12-16 18:26:09,335 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:26:09,335 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:26:09,335 INFO l.Log [main] Sending response
+2021-12-16 18:26:09,335 INFO l.Log [main] Serializing response
+2021-12-16 18:26:09,335 INFO l.Log [main] Response sent
+2021-12-16 18:26:09,335 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:26:09,336 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:26:09,836 INFO l.Log [main] Connected to the client at /127.0.0.1:65505
+2021-12-16 18:26:09,836 INFO l.Log [main] Deserialization request
+2021-12-16 18:26:09,836 INFO l.Log [main] request received
+2021-12-16 18:26:09,836 INFO l.Log [main] Processing request
+2021-12-16 18:26:09,836 INFO l.Log [main] Try to process show command
+2021-12-16 18:26:09,837 INFO l.Log [main] Sending response
+2021-12-16 18:26:09,837 INFO l.Log [main] Serializing response
+2021-12-16 18:26:09,837 INFO l.Log [main] Response sent
+2021-12-16 18:26:09,838 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:26:09,839 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:26:12,336 INFO l.Log [main] Connected to the client at /127.0.0.1:65510
+2021-12-16 18:26:12,336 INFO l.Log [main] Deserialization request
+2021-12-16 18:26:12,336 INFO l.Log [main] request received
+2021-12-16 18:26:12,336 INFO l.Log [main] Processing request
+2021-12-16 18:26:12,336 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:26:12,336 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:26:12,337 INFO l.Log [main] Sending response
+2021-12-16 18:26:12,337 INFO l.Log [main] Serializing response
+2021-12-16 18:26:12,337 INFO l.Log [main] Response sent
+2021-12-16 18:26:12,338 INFO l.Log [main] Request{commandName='info', product=null}
+2021-12-16 18:26:12,338 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:26:12,838 INFO l.Log [main] Connected to the client at /127.0.0.1:65511
+2021-12-16 18:26:12,838 INFO l.Log [main] Deserialization request
+2021-12-16 18:26:12,838 INFO l.Log [main] request received
+2021-12-16 18:26:12,838 INFO l.Log [main] Processing request
+2021-12-16 18:26:12,838 INFO l.Log [main] Try to process info command
+2021-12-16 18:26:12,839 INFO l.Log [main] Sending response
+2021-12-16 18:26:12,839 INFO l.Log [main] Serializing response
+2021-12-16 18:26:12,839 INFO l.Log [main] Response sent
+2021-12-16 18:26:12,839 INFO l.Log [main] Request{commandName='info', product=null}
+2021-12-16 18:26:12,840 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:26:15,336 INFO l.Log [main] Connected to the client at /127.0.0.1:65516
+2021-12-16 18:26:15,336 INFO l.Log [main] Deserialization request
+2021-12-16 18:26:15,337 INFO l.Log [main] request received
+2021-12-16 18:26:15,337 INFO l.Log [main] Processing request
+2021-12-16 18:26:15,337 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:26:15,337 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:26:15,337 INFO l.Log [main] Sending response
+2021-12-16 18:26:15,337 INFO l.Log [main] Serializing response
+2021-12-16 18:26:15,337 INFO l.Log [main] Response sent
+2021-12-16 18:26:15,337 INFO l.Log [main] Request{commandName='help', product=null}
+2021-12-16 18:26:15,338 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:26:15,839 INFO l.Log [main] Connected to the client at /127.0.0.1:65517
+2021-12-16 18:26:15,839 INFO l.Log [main] Deserialization request
+2021-12-16 18:26:15,839 INFO l.Log [main] request received
+2021-12-16 18:26:15,839 INFO l.Log [main] Processing request
+2021-12-16 18:26:15,839 INFO l.Log [main] Try to process help command
+2021-12-16 18:26:15,839 INFO l.Log [main] Sending response
+2021-12-16 18:26:15,839 INFO l.Log [main] Serializing response
+2021-12-16 18:26:15,840 INFO l.Log [main] Response sent
+2021-12-16 18:26:15,840 INFO l.Log [main] Request{commandName='help', product=null}
+2021-12-16 18:26:15,841 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:26:20,337 INFO l.Log [main] Connected to the client at /127.0.0.1:65522
+2021-12-16 18:26:20,338 INFO l.Log [main] Deserialization request
+2021-12-16 18:26:20,338 INFO l.Log [main] request received
+2021-12-16 18:26:20,338 INFO l.Log [main] Processing request
+2021-12-16 18:26:20,338 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:26:20,338 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 18:26:20,338 INFO l.Log [main] Sending response
+2021-12-16 18:26:20,338 INFO l.Log [main] Serializing response
+2021-12-16 18:26:20,338 INFO l.Log [main] Response sent
+2021-12-16 18:26:20,338 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 18:26:20,339 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:26:20,839 INFO l.Log [main] Connected to the client at /127.0.0.1:65523
+2021-12-16 18:26:52,352 INFO l.Log [main] Deserialization request
+2021-12-16 18:26:52,354 ERROR l.Log [main] java.io.EOFException
+2021-12-16 18:26:52,354 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@383bfa16
+2021-12-16 18:26:52,356 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:27:25,583 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:27:25,584 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:27:25,584 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:27:25,584 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:27:25,584 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:27:25,585 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:27:25,585 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:27:25,585 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:27:25,585 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:27:25,585 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:27:25,585 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:27:25,585 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:27:25,585 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:27:25,585 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:29:38,496 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:29:53,505 INFO l.Log [main] Connected to the client at /127.0.0.1:49187
+2021-12-16 18:29:54,351 INFO l.Log [main] Deserialization request
+2021-12-16 18:29:54,355 INFO l.Log [main] request received
+2021-12-16 18:29:54,355 INFO l.Log [main] Processing request
+2021-12-16 18:29:54,356 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:29:54,356 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 18:29:54,356 INFO l.Log [main] Sending response
+2021-12-16 18:29:54,356 INFO l.Log [main] Serializing response
+2021-12-16 18:29:54,358 INFO l.Log [main] Response sent
+2021-12-16 18:29:54,358 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 18:29:54,359 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:29:56,380 INFO l.Log [main] Connected to the client at /127.0.0.1:49190
+2021-12-16 18:30:25,599 INFO l.Log [main] Deserialization request
+2021-12-16 18:30:25,605 ERROR l.Log [main] java.io.EOFException
+2021-12-16 18:30:25,605 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@3c73951
+2021-12-16 18:30:25,607 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:30:38,721 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:30:38,721 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:30:38,721 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:30:38,721 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:30:38,721 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:30:38,721 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:30:38,721 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:30:38,721 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:30:38,721 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:30:38,721 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:30:38,721 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:31:37,456 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:31:45,603 INFO l.Log [main] Connected to the client at /127.0.0.1:49228
+2021-12-16 18:31:48,098 INFO l.Log [main] Deserialization request
+2021-12-16 18:31:48,498 INFO l.Log [main] request received
+2021-12-16 18:31:48,786 INFO l.Log [main] Processing request
+2021-12-16 18:31:49,107 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:31:49,107 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 18:31:49,395 INFO l.Log [main] Sending response
+2021-12-16 18:31:49,395 INFO l.Log [main] Serializing response
+2021-12-16 18:31:49,399 INFO l.Log [main] Response sent
+2021-12-16 18:31:50,619 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 18:31:52,656 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:32:47,608 INFO l.Log [main] Connected to the client at /127.0.0.1:49235
+2021-12-16 18:32:48,994 INFO l.Log [main] Deserialization request
+2021-12-16 18:32:49,178 INFO l.Log [main] request received
+2021-12-16 18:32:49,338 INFO l.Log [main] Processing request
+2021-12-16 18:32:49,522 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:32:49,522 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 18:32:49,682 INFO l.Log [main] Sending response
+2021-12-16 18:32:49,682 INFO l.Log [main] Serializing response
+2021-12-16 18:32:49,683 INFO l.Log [main] Response sent
+2021-12-16 18:32:50,450 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 18:32:51,126 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:33:43,690 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:33:49,093 INFO l.Log [main] Connected to the client at /127.0.0.1:49274
+2021-12-16 18:33:53,115 INFO l.Log [main] Deserialization request
+2021-12-16 18:33:53,379 INFO l.Log [main] request received
+2021-12-16 18:33:53,603 INFO l.Log [main] Processing request
+2021-12-16 18:33:53,899 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:33:53,900 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 18:33:54,219 INFO l.Log [main] Sending response
+2021-12-16 18:33:54,219 INFO l.Log [main] Serializing response
+2021-12-16 18:33:54,224 INFO l.Log [main] Response sent
+2021-12-16 18:33:59,731 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 18:34:00,877 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:34:02,548 INFO l.Log [main] Connected to the client at /127.0.0.1:49278
+2021-12-16 18:34:40,180 INFO l.Log [main] Deserialization request
+2021-12-16 18:34:52,572 ERROR l.Log [main] java.io.EOFException
+2021-12-16 18:34:52,979 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@3c73951
+2021-12-16 18:34:54,685 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:35:30,196 INFO l.Log [main] Connected to the client at /127.0.0.1:62379
+2021-12-16 18:35:35,607 INFO l.Log [main] Deserialization request
+2021-12-16 18:35:37,971 INFO l.Log [main] request received
+2021-12-16 18:35:38,355 INFO l.Log [main] Processing request
+2021-12-16 18:35:38,635 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:35:38,635 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 18:35:38,923 INFO l.Log [main] Sending response
+2021-12-16 18:35:38,923 INFO l.Log [main] Serializing response
+2021-12-16 18:35:38,923 INFO l.Log [main] Response sent
+2021-12-16 18:35:42,211 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 18:35:42,980 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:35:44,461 INFO l.Log [main] Connected to the client at /127.0.0.1:62382
+2021-12-16 18:36:21,058 INFO l.Log [main] Deserialization request
+2021-12-16 18:36:36,906 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:36:42,468 INFO l.Log [main] Connected to the client at /127.0.0.1:62417
+2021-12-16 18:36:46,500 INFO l.Log [main] Deserialization request
+2021-12-16 18:36:46,699 INFO l.Log [main] request received
+2021-12-16 18:36:46,899 INFO l.Log [main] Processing request
+2021-12-16 18:36:47,106 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:36:47,107 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 18:36:47,339 INFO l.Log [main] Sending response
+2021-12-16 18:36:47,339 INFO l.Log [main] Serializing response
+2021-12-16 18:36:47,343 INFO l.Log [main] Response sent
+2021-12-16 18:36:53,459 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 18:36:54,076 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:38:40,270 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:38:51,996 INFO l.Log [main] Connected to the client at /127.0.0.1:62484
+2021-12-16 18:38:52,004 INFO l.Log [main] Deserialization request
+2021-12-16 18:38:52,008 INFO l.Log [main] request received
+2021-12-16 18:38:52,008 INFO l.Log [main] Processing request
+2021-12-16 18:38:52,008 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:38:52,008 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 18:38:52,008 INFO l.Log [main] Sending response
+2021-12-16 18:38:52,008 INFO l.Log [main] Serializing response
+2021-12-16 18:38:52,010 INFO l.Log [main] Response sent
+2021-12-16 18:38:52,010 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 18:38:52,011 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:38:52,043 INFO l.Log [main] Connected to the client at /127.0.0.1:62487
+2021-12-16 18:39:11,006 INFO l.Log [main] Deserialization request
+2021-12-16 18:39:11,012 ERROR l.Log [main] java.io.EOFException
+2021-12-16 18:39:11,012 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@3c73951
+2021-12-16 18:39:11,013 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:39:17,026 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:39:17,027 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:39:17,027 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:39:17,027 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:39:17,027 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:39:17,027 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:39:17,027 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:39:17,027 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:39:17,027 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:39:17,027 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:39:17,027 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:39:43,638 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:39:53,719 INFO l.Log [main] Connected to the client at /127.0.0.1:62513
+2021-12-16 18:39:53,727 INFO l.Log [main] Deserialization request
+2021-12-16 18:39:53,731 INFO l.Log [main] request received
+2021-12-16 18:39:53,731 INFO l.Log [main] Processing request
+2021-12-16 18:39:53,731 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:39:53,731 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 18:39:53,731 INFO l.Log [main] Sending response
+2021-12-16 18:39:53,731 INFO l.Log [main] Serializing response
+2021-12-16 18:39:53,733 INFO l.Log [main] Response sent
+2021-12-16 18:39:53,733 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 18:39:53,734 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:39:53,765 INFO l.Log [main] Connected to the client at /127.0.0.1:62516
+2021-12-16 18:40:09,729 INFO l.Log [main] Deserialization request
+2021-12-16 18:40:09,733 INFO l.Log [main] request received
+2021-12-16 18:40:09,733 INFO l.Log [main] Processing request
+2021-12-16 18:40:09,733 INFO l.Log [main] Try to process add command
+2021-12-16 18:40:09,733 INFO l.Log [main] Sending response
+2021-12-16 18:40:09,733 INFO l.Log [main] Serializing response
+2021-12-16 18:40:09,733 INFO l.Log [main] Response sent
+2021-12-16 18:40:09,734 INFO l.Log [main] Request{commandName='add', product=Product{id=1, name='123', coordinates=Coordinates{x=123.0, y=123}, creationDate=2021-12-16T18:40:09.719, price=123, partNumber='123', manufactureCost=123, unitOfMeasure=PCS, manufacturer=model.Organization@2b48a640}}
+2021-12-16 18:40:09,734 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:40:12,707 INFO l.Log [main] Connected to the client at /127.0.0.1:62519
+2021-12-16 18:40:12,708 INFO l.Log [main] Deserialization request
+2021-12-16 18:40:12,708 INFO l.Log [main] request received
+2021-12-16 18:40:12,708 INFO l.Log [main] Processing request
+2021-12-16 18:40:12,708 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:40:12,708 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:40:12,708 INFO l.Log [main] Sending response
+2021-12-16 18:40:12,708 INFO l.Log [main] Serializing response
+2021-12-16 18:40:12,708 INFO l.Log [main] Response sent
+2021-12-16 18:40:12,708 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:40:12,709 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:40:13,210 INFO l.Log [main] Connected to the client at /127.0.0.1:62520
+2021-12-16 18:40:13,210 INFO l.Log [main] Deserialization request
+2021-12-16 18:40:13,210 INFO l.Log [main] request received
+2021-12-16 18:40:13,210 INFO l.Log [main] Processing request
+2021-12-16 18:40:13,210 INFO l.Log [main] Try to process show command
+2021-12-16 18:40:13,211 INFO l.Log [main] Sending response
+2021-12-16 18:40:13,211 INFO l.Log [main] Serializing response
+2021-12-16 18:40:13,212 INFO l.Log [main] Response sent
+2021-12-16 18:40:13,212 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:40:13,213 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:40:14,709 INFO l.Log [main] Connected to the client at /127.0.0.1:62525
+2021-12-16 18:40:14,709 INFO l.Log [main] Deserialization request
+2021-12-16 18:40:14,710 INFO l.Log [main] request received
+2021-12-16 18:40:14,710 INFO l.Log [main] Processing request
+2021-12-16 18:40:14,710 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:40:14,710 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 18:40:14,710 INFO l.Log [main] Sending response
+2021-12-16 18:40:14,710 INFO l.Log [main] Serializing response
+2021-12-16 18:40:14,710 INFO l.Log [main] Response sent
+2021-12-16 18:40:14,710 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 18:40:14,711 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:40:15,211 INFO l.Log [main] Connected to the client at /127.0.0.1:62526
+2021-12-16 18:40:33,718 INFO l.Log [main] Deserialization request
+2021-12-16 18:40:33,720 ERROR l.Log [main] java.io.EOFException
+2021-12-16 18:40:33,720 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@28f3b248
+2021-12-16 18:40:33,721 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:41:22,867 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:41:22,868 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:41:22,868 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:41:22,868 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:41:22,868 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:41:22,868 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:41:22,868 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:41:22,868 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:41:32,902 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:41:37,043 INFO l.Log [main] Connected to the client at /127.0.0.1:62563
+2021-12-16 18:41:39,554 INFO l.Log [main] Deserialization request
+2021-12-16 18:41:39,730 INFO l.Log [main] request received
+2021-12-16 18:41:39,914 INFO l.Log [main] Processing request
+2021-12-16 18:41:40,098 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:41:40,098 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 18:41:40,282 INFO l.Log [main] Sending response
+2021-12-16 18:41:40,282 INFO l.Log [main] Serializing response
+2021-12-16 18:41:40,287 INFO l.Log [main] Response sent
+2021-12-16 18:41:44,633 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 18:41:45,178 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:42:33,800 INFO l.Log [main] Connected to the client at /127.0.0.1:56636
+2021-12-16 18:42:37,457 INFO l.Log [main] Deserialization request
+2021-12-16 18:42:37,793 INFO l.Log [main] request received
+2021-12-16 18:42:38,113 INFO l.Log [main] Processing request
+2021-12-16 18:42:38,417 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:42:38,417 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 18:42:38,689 INFO l.Log [main] Sending response
+2021-12-16 18:42:38,689 INFO l.Log [main] Serializing response
+2021-12-16 18:42:38,689 INFO l.Log [main] Response sent
+2021-12-16 18:42:47,297 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 18:42:48,130 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:42:49,698 INFO l.Log [main] Connected to the client at /127.0.0.1:56639
+2021-12-16 18:44:01,648 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:44:11,335 INFO l.Log [main] Connected to the client at /127.0.0.1:56715
+2021-12-16 18:44:11,342 INFO l.Log [main] Deserialization request
+2021-12-16 18:44:11,347 INFO l.Log [main] request received
+2021-12-16 18:44:11,347 INFO l.Log [main] Processing request
+2021-12-16 18:44:11,347 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:44:11,349 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@223aa2f7
+2021-12-16 18:44:11,349 INFO l.Log [main] Sending response
+2021-12-16 18:44:11,349 INFO l.Log [main] Serializing response
+2021-12-16 18:44:11,350 INFO l.Log [main] Response sent
+2021-12-16 18:44:11,350 INFO l.Log [main] Request{commandName='РІРІ', product=null}
+2021-12-16 18:44:11,351 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:44:12,315 INFO l.Log [main] Connected to the client at /127.0.0.1:56718
+2021-12-16 18:44:12,316 INFO l.Log [main] Deserialization request
+2021-12-16 18:44:12,316 INFO l.Log [main] request received
+2021-12-16 18:44:12,316 INFO l.Log [main] Processing request
+2021-12-16 18:44:12,316 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:44:12,316 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 18:44:12,316 INFO l.Log [main] Sending response
+2021-12-16 18:44:12,316 INFO l.Log [main] Serializing response
+2021-12-16 18:44:12,316 INFO l.Log [main] Response sent
+2021-12-16 18:44:12,316 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 18:44:12,317 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:44:12,818 INFO l.Log [main] Connected to the client at /127.0.0.1:56719
+2021-12-16 18:44:29,341 INFO l.Log [main] Deserialization request
+2021-12-16 18:44:29,346 INFO l.Log [main] request received
+2021-12-16 18:44:29,346 INFO l.Log [main] Processing request
+2021-12-16 18:44:29,346 INFO l.Log [main] Try to process add command
+2021-12-16 18:44:29,346 INFO l.Log [main] Sending response
+2021-12-16 18:44:29,346 INFO l.Log [main] Serializing response
+2021-12-16 18:44:29,346 INFO l.Log [main] Response sent
+2021-12-16 18:44:29,347 INFO l.Log [main] Request{commandName='add', product=Product{id=1, name='123', coordinates=Coordinates{x=123.0, y=123}, creationDate=2021-12-16T18:44:29.331, price=123, partNumber='123', manufactureCost=123, unitOfMeasure=PCS, manufacturer=model.Organization@49c7b90e}}
+2021-12-16 18:44:29,348 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:50:50,347 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,347 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,347 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,347 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,347 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,348 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,348 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,348 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,348 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,348 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,348 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,348 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,348 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,348 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,348 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,349 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,349 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,349 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,349 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,349 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,349 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,349 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,349 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,349 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,349 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,349 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,349 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,350 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,350 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,350 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,350 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,350 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,350 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,350 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,350 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,350 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,350 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,350 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,351 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,351 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,351 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,351 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,351 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,351 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,351 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,351 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,351 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,352 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,352 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,352 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,352 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,352 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,352 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,352 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,352 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,352 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,352 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,352 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,352 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,352 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,352 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,353 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,353 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,353 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,353 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,353 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,353 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,353 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,353 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,353 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,353 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,353 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,353 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,353 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,354 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,354 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,354 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,354 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,354 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,354 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,354 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,354 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,354 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,354 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,354 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,354 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,354 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,355 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,355 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,355 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,355 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,355 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,355 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,355 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,355 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,356 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,356 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,356 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,356 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,356 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,356 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,356 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,356 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,356 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,356 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,357 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,357 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,357 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,357 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,357 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,357 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,357 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,357 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,357 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,357 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,357 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,357 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,358 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,358 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,358 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,358 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,358 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,358 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,358 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,358 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,358 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,358 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,359 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,359 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,359 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,359 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,359 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,359 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,359 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,359 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,359 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,359 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,359 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,360 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,360 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,360 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,360 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,360 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,360 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,360 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,360 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,360 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,360 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,360 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,360 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,360 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,360 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,361 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,361 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,361 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,361 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,361 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,361 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,361 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,361 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,361 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,361 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,361 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,361 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,361 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,361 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,361 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,363 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,363 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,363 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,363 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,363 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,363 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,364 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,364 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,364 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,364 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,364 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,364 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,364 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,364 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,365 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,365 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,365 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,365 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,365 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,365 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,365 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,365 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,365 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,365 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,365 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,365 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,366 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,367 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,367 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,367 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,367 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,367 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,367 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,367 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,367 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,367 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,367 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,367 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,368 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,369 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,369 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,369 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,369 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,369 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,369 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,369 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,369 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,369 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,369 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,369 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,369 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,369 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,369 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,369 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,370 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,370 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,370 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,370 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,370 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,370 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,370 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,370 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,370 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,370 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,370 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,371 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,371 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,371 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,371 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,371 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,371 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,371 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,371 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,371 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,371 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,371 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,371 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,371 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,371 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,371 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,371 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,371 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,372 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,372 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,372 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,372 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,372 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,372 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,372 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,372 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,372 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,372 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,372 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,372 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,372 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,372 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,372 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,373 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,374 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,375 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,376 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,376 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,376 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,376 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,376 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,376 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,376 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,376 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,376 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,376 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,376 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,376 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,376 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,376 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,377 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,378 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,379 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,380 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,381 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,382 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,382 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,382 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,382 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,382 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,382 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,383 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,383 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,383 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,383 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,383 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:50,383 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:50:54,058 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:50:59,370 INFO l.Log [main] Connected to the client at /127.0.0.1:56846
+2021-12-16 18:51:06,277 INFO l.Log [main] Deserialization request
+2021-12-16 18:51:06,281 INFO l.Log [main] request received
+2021-12-16 18:51:06,281 INFO l.Log [main] Processing request
+2021-12-16 18:51:06,281 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:51:06,282 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:51:06,282 INFO l.Log [main] Sending response
+2021-12-16 18:51:06,282 INFO l.Log [main] Serializing response
+2021-12-16 18:51:06,283 INFO l.Log [main] Response sent
+2021-12-16 18:51:06,284 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:51:26,833 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:26,834 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:26,834 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:26,834 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:26,834 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:26,834 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:26,834 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:26,834 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:26,835 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:26,835 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:26,835 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:26,835 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:26,835 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:26,835 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:26,835 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:36,401 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:51:41,646 INFO l.Log [main] Connected to the client at /127.0.0.1:56874
+2021-12-16 18:51:47,513 INFO l.Log [main] Deserialization request
+2021-12-16 18:51:47,518 INFO l.Log [main] request received
+2021-12-16 18:51:47,518 INFO l.Log [main] Processing request
+2021-12-16 18:51:47,518 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:51:47,518 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:51:47,518 INFO l.Log [main] Sending response
+2021-12-16 18:51:47,518 INFO l.Log [main] Serializing response
+2021-12-16 18:51:47,520 INFO l.Log [main] Response sent
+2021-12-16 18:51:47,520 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:51:52,941 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:52,942 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:52,942 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:52,942 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:52,942 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:52,942 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:52,942 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:52,942 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:52,942 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:52,943 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:52,943 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:52,943 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:52,943 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:52,943 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:52,943 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:52,943 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:51:55,681 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:52:00,529 INFO l.Log [main] Connected to the client at /127.0.0.1:56898
+2021-12-16 18:52:10,308 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:10,308 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:10,308 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:10,309 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:10,309 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:10,309 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:10,309 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:10,309 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:10,309 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:10,309 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:10,309 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:10,309 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:10,309 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:10,309 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:10,310 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:10,310 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:10,310 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:14,103 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:52:19,395 INFO l.Log [main] Connected to the client at /127.0.0.1:56922
+2021-12-16 18:52:27,279 INFO l.Log [main] Deserialization request
+2021-12-16 18:52:27,284 INFO l.Log [main] request received
+2021-12-16 18:52:27,284 INFO l.Log [main] Processing request
+2021-12-16 18:52:27,284 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:52:27,284 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:52:27,284 INFO l.Log [main] Sending response
+2021-12-16 18:52:27,284 INFO l.Log [main] Serializing response
+2021-12-16 18:52:27,286 INFO l.Log [main] Response sent
+2021-12-16 18:52:27,286 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:52:34,503 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:34,504 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:34,504 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:34,504 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:34,504 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:34,504 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:34,504 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:34,504 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:34,505 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:34,505 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:34,505 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:52:37,393 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:52:43,704 INFO l.Log [main] Connected to the client at /127.0.0.1:50385
+2021-12-16 18:52:59,953 INFO l.Log [main] Deserialization request
+2021-12-16 18:52:59,958 INFO l.Log [main] request received
+2021-12-16 18:52:59,958 INFO l.Log [main] Processing request
+2021-12-16 18:52:59,958 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:52:59,958 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:52:59,958 INFO l.Log [main] Sending response
+2021-12-16 18:52:59,958 INFO l.Log [main] Serializing response
+2021-12-16 18:52:59,961 INFO l.Log [main] Response sent
+2021-12-16 18:52:59,961 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:53:15,200 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,201 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,201 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,201 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,201 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,201 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,201 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,201 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,201 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,201 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,202 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,202 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,202 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,202 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,202 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,202 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,202 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,202 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,202 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:15,202 ERROR l.Log [Thread-0] effected eof
+2021-12-16 18:53:24,474 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:53:32,397 INFO l.Log [main] Connected to the client at /127.0.0.1:63313
+2021-12-16 18:55:28,870 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:55:30,384 INFO l.Log [main] Connected to the client at /127.0.0.1:63348
+2021-12-16 18:55:41,134 INFO l.Log [main] Deserialization request
+2021-12-16 18:55:44,269 INFO l.Log [main] request received
+2021-12-16 18:55:45,670 INFO l.Log [main] Processing request
+2021-12-16 18:55:46,397 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:55:46,398 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:55:47,357 INFO l.Log [main] Sending response
+2021-12-16 18:55:47,358 INFO l.Log [main] Serializing response
+2021-12-16 18:55:47,362 INFO l.Log [main] Response sent
+2021-12-16 18:55:48,437 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 18:57:37,237 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 18:57:41,304 INFO l.Log [main] Connected to the client at /127.0.0.1:55220
+2021-12-16 18:58:27,104 INFO l.Log [main] Deserialization request
+2021-12-16 18:58:31,055 INFO l.Log [main] request received
+2021-12-16 18:58:31,735 INFO l.Log [main] Processing request
+2021-12-16 18:58:32,295 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 18:58:32,295 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 18:58:34,334 INFO l.Log [main] Sending response
+2021-12-16 18:58:35,934 INFO l.Log [main] Serializing response
+2021-12-16 18:58:52,170 INFO l.Log [main] Response sent
+2021-12-16 18:58:54,142 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:05:51,333 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 19:06:05,817 INFO l.Log [main] Connected to the client at /127.0.0.1:56882
+2021-12-16 19:07:18,926 INFO l.Log [main] Deserialization request
+2021-12-16 19:07:20,692 INFO l.Log [main] request received
+2021-12-16 19:07:21,580 INFO l.Log [main] Processing request
+2021-12-16 19:07:22,388 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:07:22,389 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:07:24,716 INFO l.Log [main] Sending response
+2021-12-16 19:07:26,565 INFO l.Log [main] Serializing response
+2021-12-16 19:08:27,668 INFO l.Log [main] Response sent
+2021-12-16 19:08:30,364 INFO l.Log [main] Request{commandName='info', product=null}
+2021-12-16 19:09:58,332 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 19:10:06,429 INFO l.Log [main] Connected to the client at /127.0.0.1:57002
+2021-12-16 19:10:12,323 INFO l.Log [main] Deserialization request
+2021-12-16 19:10:12,328 INFO l.Log [main] request received
+2021-12-16 19:10:12,328 INFO l.Log [main] Processing request
+2021-12-16 19:10:12,328 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:10:12,328 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:10:12,328 INFO l.Log [main] Sending response
+2021-12-16 19:10:12,328 INFO l.Log [main] Serializing response
+2021-12-16 19:10:12,330 INFO l.Log [main] Response sent
+2021-12-16 19:10:12,330 INFO l.Log [main] Request{commandName='info', product=null}
+2021-12-16 19:10:12,369 INFO l.Log [main] Deserialization request
+2021-12-16 19:10:12,369 INFO l.Log [main] request received
+2021-12-16 19:10:12,369 INFO l.Log [main] Processing request
+2021-12-16 19:10:12,370 INFO l.Log [main] Try to process info command
+2021-12-16 19:10:12,370 INFO l.Log [main] Sending response
+2021-12-16 19:10:12,370 INFO l.Log [main] Serializing response
+2021-12-16 19:10:12,370 INFO l.Log [main] Response sent
+2021-12-16 19:10:12,370 INFO l.Log [main] Request{commandName='info', product=null}
+2021-12-16 19:10:17,317 INFO l.Log [main] Deserialization request
+2021-12-16 19:10:17,317 INFO l.Log [main] request received
+2021-12-16 19:10:17,317 INFO l.Log [main] Processing request
+2021-12-16 19:10:17,317 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:10:17,317 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:10:17,317 INFO l.Log [main] Sending response
+2021-12-16 19:10:17,317 INFO l.Log [main] Serializing response
+2021-12-16 19:10:17,318 INFO l.Log [main] Response sent
+2021-12-16 19:10:17,318 INFO l.Log [main] Request{commandName='info', product=null}
+2021-12-16 19:10:17,318 INFO l.Log [main] Deserialization request
+2021-12-16 19:10:17,318 INFO l.Log [main] request received
+2021-12-16 19:10:17,318 INFO l.Log [main] Processing request
+2021-12-16 19:10:17,318 INFO l.Log [main] Try to process info command
+2021-12-16 19:10:17,318 INFO l.Log [main] Sending response
+2021-12-16 19:10:17,318 INFO l.Log [main] Serializing response
+2021-12-16 19:10:17,318 INFO l.Log [main] Response sent
+2021-12-16 19:10:17,318 INFO l.Log [main] Request{commandName='info', product=null}
+2021-12-16 19:10:27,324 INFO l.Log [main] Deserialization request
+2021-12-16 19:10:27,324 INFO l.Log [main] request received
+2021-12-16 19:10:27,324 INFO l.Log [main] Processing request
+2021-12-16 19:10:27,324 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:10:27,324 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:10:27,324 INFO l.Log [main] Sending response
+2021-12-16 19:10:27,325 INFO l.Log [main] Serializing response
+2021-12-16 19:10:27,325 INFO l.Log [main] Response sent
+2021-12-16 19:10:27,325 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:10:27,325 INFO l.Log [main] Deserialization request
+2021-12-16 19:10:27,325 INFO l.Log [main] request received
+2021-12-16 19:10:27,325 INFO l.Log [main] Processing request
+2021-12-16 19:10:27,325 INFO l.Log [main] Try to process show command
+2021-12-16 19:10:27,326 INFO l.Log [main] Sending response
+2021-12-16 19:10:27,326 INFO l.Log [main] Serializing response
+2021-12-16 19:10:27,326 INFO l.Log [main] Response sent
+2021-12-16 19:10:27,326 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:10:32,326 INFO l.Log [main] Deserialization request
+2021-12-16 19:10:32,326 INFO l.Log [main] request received
+2021-12-16 19:10:32,326 INFO l.Log [main] Processing request
+2021-12-16 19:10:32,326 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:10:32,327 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 19:10:32,327 INFO l.Log [main] Sending response
+2021-12-16 19:10:32,327 INFO l.Log [main] Serializing response
+2021-12-16 19:10:32,327 INFO l.Log [main] Response sent
+2021-12-16 19:10:32,327 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 19:10:53,362 INFO l.Log [main] Deserialization request
+2021-12-16 19:10:53,367 INFO l.Log [main] request received
+2021-12-16 19:10:53,367 INFO l.Log [main] Processing request
+2021-12-16 19:10:53,367 INFO l.Log [main] Try to process add command
+2021-12-16 19:10:53,367 INFO l.Log [main] Sending response
+2021-12-16 19:10:53,367 INFO l.Log [main] Serializing response
+2021-12-16 19:10:53,367 INFO l.Log [main] Response sent
+2021-12-16 19:10:53,367 INFO l.Log [main] Request{commandName='add', product=Product{id=1, name='123', coordinates=Coordinates{x=1.0, y=2}, creationDate=2021-12-16T19:10:53.351, price=3, partNumber='123', manufactureCost=123, unitOfMeasure=KILOGRAMS, manufacturer=model.Organization@3d5c822d}}
+2021-12-16 19:10:55,337 INFO l.Log [main] Deserialization request
+2021-12-16 19:10:55,337 INFO l.Log [main] request received
+2021-12-16 19:10:55,337 INFO l.Log [main] Processing request
+2021-12-16 19:10:55,337 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:10:55,338 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:10:55,338 INFO l.Log [main] Sending response
+2021-12-16 19:10:55,338 INFO l.Log [main] Serializing response
+2021-12-16 19:10:55,338 INFO l.Log [main] Response sent
+2021-12-16 19:10:55,339 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:10:55,339 INFO l.Log [main] Deserialization request
+2021-12-16 19:10:55,339 INFO l.Log [main] request received
+2021-12-16 19:10:55,339 INFO l.Log [main] Processing request
+2021-12-16 19:10:55,339 INFO l.Log [main] Try to process show command
+2021-12-16 19:10:55,340 INFO l.Log [main] Sending response
+2021-12-16 19:10:55,340 INFO l.Log [main] Serializing response
+2021-12-16 19:10:55,340 INFO l.Log [main] Response sent
+2021-12-16 19:10:55,340 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:10:57,339 INFO l.Log [main] Deserialization request
+2021-12-16 19:10:57,339 INFO l.Log [main] request received
+2021-12-16 19:10:57,339 INFO l.Log [main] Processing request
+2021-12-16 19:10:57,339 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:10:57,340 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 19:10:57,340 INFO l.Log [main] Sending response
+2021-12-16 19:10:57,340 INFO l.Log [main] Serializing response
+2021-12-16 19:10:57,340 INFO l.Log [main] Response sent
+2021-12-16 19:10:57,340 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 19:11:18,349 INFO l.Log [main] Deserialization request
+2021-12-16 19:11:18,350 INFO l.Log [main] request received
+2021-12-16 19:11:18,350 INFO l.Log [main] Processing request
+2021-12-16 19:11:18,350 INFO l.Log [main] Try to process add command
+2021-12-16 19:11:18,350 INFO l.Log [main] Sending response
+2021-12-16 19:11:18,350 INFO l.Log [main] Serializing response
+2021-12-16 19:11:18,350 INFO l.Log [main] Response sent
+2021-12-16 19:11:18,350 INFO l.Log [main] Request{commandName='add', product=Product{id=2, name='B', coordinates=Coordinates{x=12.0, y=12}, creationDate=2021-12-16T19:11:18.349, price=12, partNumber='21', manufactureCost=12, unitOfMeasure=PCS, manufacturer=model.Organization@3e84448c}}
+2021-12-16 19:11:19,349 INFO l.Log [main] Deserialization request
+2021-12-16 19:11:19,350 INFO l.Log [main] request received
+2021-12-16 19:11:19,350 INFO l.Log [main] Processing request
+2021-12-16 19:11:19,350 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:11:19,350 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:11:19,350 INFO l.Log [main] Sending response
+2021-12-16 19:11:19,350 INFO l.Log [main] Serializing response
+2021-12-16 19:11:19,350 INFO l.Log [main] Response sent
+2021-12-16 19:11:19,350 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:11:19,350 INFO l.Log [main] Deserialization request
+2021-12-16 19:11:19,351 INFO l.Log [main] request received
+2021-12-16 19:11:19,351 INFO l.Log [main] Processing request
+2021-12-16 19:11:19,351 INFO l.Log [main] Try to process show command
+2021-12-16 19:11:19,351 INFO l.Log [main] Sending response
+2021-12-16 19:11:19,351 INFO l.Log [main] Serializing response
+2021-12-16 19:11:19,351 INFO l.Log [main] Response sent
+2021-12-16 19:11:19,351 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:11:20,349 INFO l.Log [main] Deserialization request
+2021-12-16 19:11:20,349 INFO l.Log [main] request received
+2021-12-16 19:11:20,350 INFO l.Log [main] Processing request
+2021-12-16 19:11:20,350 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:11:20,350 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@63a12c68
+2021-12-16 19:11:20,350 INFO l.Log [main] Sending response
+2021-12-16 19:11:20,351 INFO l.Log [main] Serializing response
+2021-12-16 19:11:20,351 INFO l.Log [main] Response sent
+2021-12-16 19:11:20,351 INFO l.Log [main] Request{commandName='', product=null}
+2021-12-16 19:11:20,351 INFO l.Log [main] Deserialization request
+2021-12-16 19:11:20,351 ERROR l.Log [main] java.io.StreamCorruptedException: invalid stream header: 00000000
+2021-12-16 19:11:20,351 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@32b260fa
+2021-12-16 19:11:36,733 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 19:11:37,362 INFO l.Log [main] Connected to the client at /127.0.0.1:57024
+2021-12-16 19:11:43,268 INFO l.Log [main] Deserialization request
+2021-12-16 19:11:43,273 INFO l.Log [main] request received
+2021-12-16 19:11:43,274 INFO l.Log [main] Processing request
+2021-12-16 19:11:43,274 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:11:43,275 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@223aa2f7
+2021-12-16 19:11:43,275 INFO l.Log [main] Sending response
+2021-12-16 19:11:43,275 INFO l.Log [main] Serializing response
+2021-12-16 19:11:43,277 INFO l.Log [main] Response sent
+2021-12-16 19:11:43,277 INFO l.Log [main] Request{commandName='asd', product=null}
+2021-12-16 19:11:43,311 INFO l.Log [main] Deserialization request
+2021-12-16 19:11:43,311 ERROR l.Log [main] java.io.StreamCorruptedException: invalid stream header: 00000000
+2021-12-16 19:11:43,311 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@2fd1433e
+2021-12-16 19:12:02,865 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 19:12:08,160 INFO l.Log [main] Connected to the client at /127.0.0.1:57050
+2021-12-16 19:12:13,058 INFO l.Log [main] Deserialization request
+2021-12-16 19:12:14,386 INFO l.Log [main] request received
+2021-12-16 19:12:15,522 INFO l.Log [main] Processing request
+2021-12-16 19:12:19,096 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:12:25,077 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@223aa2f7
+2021-12-16 19:12:25,826 INFO l.Log [main] Sending response
+2021-12-16 19:12:25,827 INFO l.Log [main] Serializing response
+2021-12-16 19:12:25,832 INFO l.Log [main] Response sent
+2021-12-16 19:12:26,496 INFO l.Log [main] Request{commandName='asd', product=null}
+2021-12-16 19:12:32,095 INFO l.Log [main] Deserialization request
+2021-12-16 19:13:29,892 ERROR l.Log [main] java.io.StreamCorruptedException: invalid stream header: 00000000
+2021-12-16 19:13:30,517 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@2fd1433e
+2021-12-16 19:15:03,961 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 19:15:12,218 INFO l.Log [main] Connected to the client at /127.0.0.1:51020
+2021-12-16 19:15:16,098 INFO l.Log [main] Deserialization request
+2021-12-16 19:15:16,867 INFO l.Log [main] request received
+2021-12-16 19:15:17,066 INFO l.Log [main] Processing request
+2021-12-16 19:15:17,361 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:15:23,523 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@223aa2f7
+2021-12-16 19:15:26,785 INFO l.Log [main] Sending response
+2021-12-16 19:15:27,905 INFO l.Log [main] Serializing response
+2021-12-16 19:15:45,601 INFO l.Log [main] Response sent
+2021-12-16 19:15:46,865 INFO l.Log [main] Request{commandName='fwsd', product=null}
+2021-12-16 19:15:49,245 INFO l.Log [main] Deserialization request
+2021-12-16 19:16:53,990 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 19:17:05,677 INFO l.Log [main] Connected to the client at /127.0.0.1:62785
+2021-12-16 19:17:14,151 INFO l.Log [main] Deserialization request
+2021-12-16 19:17:14,157 INFO l.Log [main] request received
+2021-12-16 19:17:14,157 INFO l.Log [main] Processing request
+2021-12-16 19:17:14,157 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:17:14,159 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@223aa2f7
+2021-12-16 19:17:14,159 INFO l.Log [main] Sending response
+2021-12-16 19:17:14,159 INFO l.Log [main] Serializing response
+2021-12-16 19:17:14,160 INFO l.Log [main] Response sent
+2021-12-16 19:17:14,160 INFO l.Log [main] Request{commandName='rewq', product=null}
+2021-12-16 19:35:39,238 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:35:39,238 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:35:39,238 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:35:39,238 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:35:39,239 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:35:39,239 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:35:39,239 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:35:39,239 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:35:39,239 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:35:39,239 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:35:39,239 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:35:39,239 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:35:51,624 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 19:35:54,834 INFO l.Log [main] Connected to the client at /127.0.0.1:58120
+2021-12-16 19:36:19,511 INFO l.Log [main] Deserialization request
+2021-12-16 19:36:23,552 INFO l.Log [main] request received
+2021-12-16 19:36:24,596 INFO l.Log [main] Processing request
+2021-12-16 19:38:35,992 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:38:57,719 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@223aa2f7
+2021-12-16 19:39:01,182 INFO l.Log [main] Sending response
+2021-12-16 19:39:02,544 INFO l.Log [main] Serializing response
+2021-12-16 19:39:09,087 INFO l.Log [main] Response sent
+2021-12-16 19:39:10,453 INFO l.Log [main] Request{commandName='u', product=null}
+2021-12-16 19:39:53,419 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 19:39:59,411 INFO l.Log [main] Connected to the client at /127.0.0.1:58286
+2021-12-16 19:40:02,315 INFO l.Log [main] Deserialization request
+2021-12-16 19:40:02,320 INFO l.Log [main] request received
+2021-12-16 19:40:02,320 INFO l.Log [main] Processing request
+2021-12-16 19:40:02,320 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:40:02,321 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@223aa2f7
+2021-12-16 19:40:02,321 INFO l.Log [main] Sending response
+2021-12-16 19:40:02,322 INFO l.Log [main] Serializing response
+2021-12-16 19:40:02,323 INFO l.Log [main] Response sent
+2021-12-16 19:40:02,323 INFO l.Log [main] Request{commandName='fdg', product=null}
+2021-12-16 19:40:06,307 INFO l.Log [main] Deserialization request
+2021-12-16 19:40:06,308 INFO l.Log [main] request received
+2021-12-16 19:40:06,308 INFO l.Log [main] Processing request
+2021-12-16 19:40:06,308 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:40:06,308 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@2fd1433e
+2021-12-16 19:40:06,308 INFO l.Log [main] Sending response
+2021-12-16 19:40:06,308 INFO l.Log [main] Serializing response
+2021-12-16 19:40:06,308 INFO l.Log [main] Response sent
+2021-12-16 19:40:06,308 INFO l.Log [main] Request{commandName='fgd', product=null}
+2021-12-16 19:40:09,308 INFO l.Log [main] Deserialization request
+2021-12-16 19:40:09,308 INFO l.Log [main] request received
+2021-12-16 19:40:09,308 INFO l.Log [main] Processing request
+2021-12-16 19:40:09,308 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:40:09,309 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:40:09,309 INFO l.Log [main] Sending response
+2021-12-16 19:40:09,309 INFO l.Log [main] Serializing response
+2021-12-16 19:40:09,309 INFO l.Log [main] Response sent
+2021-12-16 19:40:09,309 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:40:09,309 INFO l.Log [main] Deserialization request
+2021-12-16 19:40:09,309 INFO l.Log [main] request received
+2021-12-16 19:40:09,309 INFO l.Log [main] Processing request
+2021-12-16 19:40:09,309 INFO l.Log [main] Try to process show command
+2021-12-16 19:40:09,310 INFO l.Log [main] Sending response
+2021-12-16 19:40:09,310 INFO l.Log [main] Serializing response
+2021-12-16 19:40:09,310 INFO l.Log [main] Response sent
+2021-12-16 19:40:09,310 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:40:11,308 INFO l.Log [main] Deserialization request
+2021-12-16 19:40:11,308 INFO l.Log [main] request received
+2021-12-16 19:40:11,309 INFO l.Log [main] Processing request
+2021-12-16 19:40:11,309 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:40:11,309 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:40:11,309 INFO l.Log [main] Sending response
+2021-12-16 19:40:11,309 INFO l.Log [main] Serializing response
+2021-12-16 19:40:11,309 INFO l.Log [main] Response sent
+2021-12-16 19:40:11,309 INFO l.Log [main] Request{commandName='help', product=null}
+2021-12-16 19:40:11,309 INFO l.Log [main] Deserialization request
+2021-12-16 19:40:11,310 INFO l.Log [main] request received
+2021-12-16 19:40:11,310 INFO l.Log [main] Processing request
+2021-12-16 19:40:11,310 INFO l.Log [main] Try to process help command
+2021-12-16 19:40:11,311 INFO l.Log [main] Sending response
+2021-12-16 19:40:11,312 INFO l.Log [main] Serializing response
+2021-12-16 19:40:11,312 INFO l.Log [main] Response sent
+2021-12-16 19:40:11,312 INFO l.Log [main] Request{commandName='help', product=null}
+2021-12-16 19:40:18,315 INFO l.Log [main] Deserialization request
+2021-12-16 19:40:18,315 INFO l.Log [main] request received
+2021-12-16 19:40:18,315 INFO l.Log [main] Processing request
+2021-12-16 19:40:18,315 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:40:18,316 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 19:40:18,316 INFO l.Log [main] Sending response
+2021-12-16 19:40:18,316 INFO l.Log [main] Serializing response
+2021-12-16 19:40:18,316 INFO l.Log [main] Response sent
+2021-12-16 19:40:18,316 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 19:40:35,352 INFO l.Log [main] Deserialization request
+2021-12-16 19:40:35,357 INFO l.Log [main] request received
+2021-12-16 19:40:35,357 INFO l.Log [main] Processing request
+2021-12-16 19:40:35,357 INFO l.Log [main] Try to process add command
+2021-12-16 19:40:35,358 INFO l.Log [main] Sending response
+2021-12-16 19:40:35,358 INFO l.Log [main] Serializing response
+2021-12-16 19:40:35,358 INFO l.Log [main] Response sent
+2021-12-16 19:40:35,358 INFO l.Log [main] Request{commandName='add', product=Product{id=1, name='123', coordinates=Coordinates{x=123.0, y=123}, creationDate=2021-12-16T19:40:35.341, price=123, partNumber='123', manufactureCost=123, unitOfMeasure=PCS, manufacturer=model.Organization@483f6d77}}
+2021-12-16 19:40:48,331 INFO l.Log [main] Deserialization request
+2021-12-16 19:40:48,331 INFO l.Log [main] request received
+2021-12-16 19:40:48,331 INFO l.Log [main] Processing request
+2021-12-16 19:40:48,332 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:40:48,332 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:40:48,332 INFO l.Log [main] Sending response
+2021-12-16 19:40:48,332 INFO l.Log [main] Serializing response
+2021-12-16 19:40:48,333 INFO l.Log [main] Response sent
+2021-12-16 19:40:48,333 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:40:48,333 INFO l.Log [main] Deserialization request
+2021-12-16 19:40:48,333 INFO l.Log [main] request received
+2021-12-16 19:40:48,333 INFO l.Log [main] Processing request
+2021-12-16 19:40:48,334 INFO l.Log [main] Try to process show command
+2021-12-16 19:40:48,334 INFO l.Log [main] Sending response
+2021-12-16 19:40:48,334 INFO l.Log [main] Serializing response
+2021-12-16 19:40:48,334 INFO l.Log [main] Response sent
+2021-12-16 19:40:48,335 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:40:52,332 INFO l.Log [main] Deserialization request
+2021-12-16 19:40:52,333 INFO l.Log [main] request received
+2021-12-16 19:40:52,333 INFO l.Log [main] Processing request
+2021-12-16 19:40:52,333 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:40:52,333 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 19:40:52,333 INFO l.Log [main] Sending response
+2021-12-16 19:40:52,333 INFO l.Log [main] Serializing response
+2021-12-16 19:40:52,333 INFO l.Log [main] Response sent
+2021-12-16 19:40:52,333 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 19:41:25,353 INFO l.Log [main] Deserialization request
+2021-12-16 19:41:25,354 INFO l.Log [main] request received
+2021-12-16 19:41:25,354 INFO l.Log [main] Processing request
+2021-12-16 19:41:25,354 INFO l.Log [main] Try to process add command
+2021-12-16 19:41:25,354 INFO l.Log [main] Sending response
+2021-12-16 19:41:25,354 INFO l.Log [main] Serializing response
+2021-12-16 19:41:25,354 INFO l.Log [main] Response sent
+2021-12-16 19:41:25,354 INFO l.Log [main] Request{commandName='add', product=Product{id=2, name='B', coordinates=Coordinates{x=123.0, y=123}, creationDate=2021-12-16T19:41:25.353, price=123, partNumber='123', manufactureCost=0, unitOfMeasure=KILOGRAMS, manufacturer=model.Organization@581ac8a8}}
+2021-12-16 19:41:27,354 INFO l.Log [main] Deserialization request
+2021-12-16 19:41:27,355 INFO l.Log [main] request received
+2021-12-16 19:41:27,355 INFO l.Log [main] Processing request
+2021-12-16 19:41:27,355 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:41:27,355 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:41:27,355 INFO l.Log [main] Sending response
+2021-12-16 19:41:27,355 INFO l.Log [main] Serializing response
+2021-12-16 19:41:27,355 INFO l.Log [main] Response sent
+2021-12-16 19:41:27,355 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:41:27,355 INFO l.Log [main] Deserialization request
+2021-12-16 19:41:27,355 INFO l.Log [main] request received
+2021-12-16 19:41:27,356 INFO l.Log [main] Processing request
+2021-12-16 19:41:27,356 INFO l.Log [main] Try to process show command
+2021-12-16 19:41:27,356 INFO l.Log [main] Sending response
+2021-12-16 19:41:27,356 INFO l.Log [main] Serializing response
+2021-12-16 19:41:27,356 INFO l.Log [main] Response sent
+2021-12-16 19:41:27,356 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:41:31,357 INFO l.Log [main] Deserialization request
+2021-12-16 19:41:31,357 INFO l.Log [main] request received
+2021-12-16 19:41:31,357 INFO l.Log [main] Processing request
+2021-12-16 19:41:31,357 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:41:31,358 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 19:41:31,358 INFO l.Log [main] Sending response
+2021-12-16 19:41:31,358 INFO l.Log [main] Serializing response
+2021-12-16 19:41:31,358 INFO l.Log [main] Response sent
+2021-12-16 19:41:31,358 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 19:41:55,369 INFO l.Log [main] Deserialization request
+2021-12-16 19:41:55,370 INFO l.Log [main] request received
+2021-12-16 19:41:55,370 INFO l.Log [main] Processing request
+2021-12-16 19:41:55,370 INFO l.Log [main] Try to process add command
+2021-12-16 19:41:55,370 INFO l.Log [main] Sending response
+2021-12-16 19:41:55,370 INFO l.Log [main] Serializing response
+2021-12-16 19:41:55,370 INFO l.Log [main] Response sent
+2021-12-16 19:41:55,370 INFO l.Log [main] Request{commandName='add', product=Product{id=3, name='C', coordinates=Coordinates{x=1.0, y=1}, creationDate=2021-12-16T19:41:55.369, price=1, partNumber='1', manufactureCost=1, unitOfMeasure=MILLIGRAMS, manufacturer=model.Organization@fba92d3}}
+2021-12-16 19:41:57,371 INFO l.Log [main] Deserialization request
+2021-12-16 19:41:57,371 INFO l.Log [main] request received
+2021-12-16 19:41:57,371 INFO l.Log [main] Processing request
+2021-12-16 19:41:57,371 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:41:57,371 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:41:57,372 INFO l.Log [main] Sending response
+2021-12-16 19:41:57,372 INFO l.Log [main] Serializing response
+2021-12-16 19:41:57,372 INFO l.Log [main] Response sent
+2021-12-16 19:41:57,372 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:41:57,372 INFO l.Log [main] Deserialization request
+2021-12-16 19:41:57,372 INFO l.Log [main] request received
+2021-12-16 19:41:57,372 INFO l.Log [main] Processing request
+2021-12-16 19:41:57,372 INFO l.Log [main] Try to process show command
+2021-12-16 19:41:57,373 INFO l.Log [main] Sending response
+2021-12-16 19:41:57,373 INFO l.Log [main] Serializing response
+2021-12-16 19:41:57,373 INFO l.Log [main] Response sent
+2021-12-16 19:41:57,373 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:42:06,376 INFO l.Log [main] Deserialization request
+2021-12-16 19:42:06,376 INFO l.Log [main] request received
+2021-12-16 19:42:06,376 INFO l.Log [main] Processing request
+2021-12-16 19:42:06,376 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:42:06,376 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:42:06,376 INFO l.Log [main] Sending response
+2021-12-16 19:42:06,377 INFO l.Log [main] Serializing response
+2021-12-16 19:42:06,377 INFO l.Log [main] Response sent
+2021-12-16 19:42:06,377 INFO l.Log [main] Request{commandName='help', product=null}
+2021-12-16 19:42:06,377 INFO l.Log [main] Deserialization request
+2021-12-16 19:42:06,377 INFO l.Log [main] request received
+2021-12-16 19:42:06,377 INFO l.Log [main] Processing request
+2021-12-16 19:42:06,377 INFO l.Log [main] Try to process help command
+2021-12-16 19:42:06,377 INFO l.Log [main] Sending response
+2021-12-16 19:42:06,377 INFO l.Log [main] Serializing response
+2021-12-16 19:42:06,378 INFO l.Log [main] Response sent
+2021-12-16 19:42:06,378 INFO l.Log [main] Request{commandName='help', product=null}
+2021-12-16 19:42:13,381 INFO l.Log [main] Deserialization request
+2021-12-16 19:42:13,381 INFO l.Log [main] request received
+2021-12-16 19:42:13,381 INFO l.Log [main] Processing request
+2021-12-16 19:42:13,381 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:42:13,381 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:42:13,382 INFO l.Log [main] Sending response
+2021-12-16 19:42:13,382 INFO l.Log [main] Serializing response
+2021-12-16 19:42:13,382 INFO l.Log [main] Response sent
+2021-12-16 19:42:13,382 INFO l.Log [main] Request{commandName='sort', product=null}
+2021-12-16 19:42:13,382 INFO l.Log [main] Deserialization request
+2021-12-16 19:42:13,382 INFO l.Log [main] request received
+2021-12-16 19:42:13,382 INFO l.Log [main] Processing request
+2021-12-16 19:42:13,382 INFO l.Log [main] Try to process sort command
+2021-12-16 19:42:13,382 INFO l.Log [main] Sending response
+2021-12-16 19:42:13,382 INFO l.Log [main] Serializing response
+2021-12-16 19:42:13,382 INFO l.Log [main] Response sent
+2021-12-16 19:42:13,383 INFO l.Log [main] Request{commandName='sort', product=null}
+2021-12-16 19:42:15,382 INFO l.Log [main] Deserialization request
+2021-12-16 19:42:15,382 INFO l.Log [main] request received
+2021-12-16 19:42:15,382 INFO l.Log [main] Processing request
+2021-12-16 19:42:15,382 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:42:15,383 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:42:15,383 INFO l.Log [main] Sending response
+2021-12-16 19:42:15,383 INFO l.Log [main] Serializing response
+2021-12-16 19:42:15,383 INFO l.Log [main] Response sent
+2021-12-16 19:42:15,383 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:42:15,383 INFO l.Log [main] Deserialization request
+2021-12-16 19:42:15,383 INFO l.Log [main] request received
+2021-12-16 19:42:15,383 INFO l.Log [main] Processing request
+2021-12-16 19:42:15,383 INFO l.Log [main] Try to process show command
+2021-12-16 19:42:15,384 INFO l.Log [main] Sending response
+2021-12-16 19:42:15,384 INFO l.Log [main] Serializing response
+2021-12-16 19:42:15,384 INFO l.Log [main] Response sent
+2021-12-16 19:42:15,384 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:42:49,402 INFO l.Log [main] Deserialization request
+2021-12-16 19:42:49,402 INFO l.Log [main] request received
+2021-12-16 19:42:49,402 INFO l.Log [main] Processing request
+2021-12-16 19:42:49,402 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:42:49,402 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 19:42:49,402 INFO l.Log [main] Sending response
+2021-12-16 19:42:49,402 INFO l.Log [main] Serializing response
+2021-12-16 19:42:49,403 INFO l.Log [main] Response sent
+2021-12-16 19:42:49,403 INFO l.Log [main] Request{commandName='remove_greater', product=null}
+2021-12-16 19:43:08,411 INFO l.Log [main] Deserialization request
+2021-12-16 19:43:08,412 INFO l.Log [main] request received
+2021-12-16 19:43:08,412 INFO l.Log [main] Processing request
+2021-12-16 19:43:08,412 INFO l.Log [main] Try to process remove_greater command
+2021-12-16 19:43:08,413 INFO l.Log [main] Sending response
+2021-12-16 19:43:08,413 INFO l.Log [main] Serializing response
+2021-12-16 19:43:08,413 INFO l.Log [main] Response sent
+2021-12-16 19:43:08,413 INFO l.Log [main] Request{commandName='remove_greater', product=Product{id=0, name='1', coordinates=Coordinates{x=1.0, y=1}, creationDate=2021-12-16T19:43:08.411, price=2, partNumber='1', manufactureCost=1, unitOfMeasure=PCS, manufacturer=model.Organization@383bfa16}}
+2021-12-16 19:43:10,412 INFO l.Log [main] Deserialization request
+2021-12-16 19:43:10,412 INFO l.Log [main] request received
+2021-12-16 19:43:10,412 INFO l.Log [main] Processing request
+2021-12-16 19:43:10,413 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:43:10,413 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:43:10,413 INFO l.Log [main] Sending response
+2021-12-16 19:43:10,413 INFO l.Log [main] Serializing response
+2021-12-16 19:43:10,413 INFO l.Log [main] Response sent
+2021-12-16 19:43:10,413 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:43:10,413 INFO l.Log [main] Deserialization request
+2021-12-16 19:43:10,413 INFO l.Log [main] request received
+2021-12-16 19:43:10,413 INFO l.Log [main] Processing request
+2021-12-16 19:43:10,413 INFO l.Log [main] Try to process show command
+2021-12-16 19:43:10,414 INFO l.Log [main] Sending response
+2021-12-16 19:43:10,414 INFO l.Log [main] Serializing response
+2021-12-16 19:43:10,414 INFO l.Log [main] Response sent
+2021-12-16 19:43:10,414 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:43:16,414 INFO l.Log [main] Deserialization request
+2021-12-16 19:43:16,414 INFO l.Log [main] request received
+2021-12-16 19:43:16,414 INFO l.Log [main] Processing request
+2021-12-16 19:43:16,414 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:43:16,414 INFO l.Log [main] Forming a request with a positive response
+2021-12-16 19:43:16,414 INFO l.Log [main] Sending response
+2021-12-16 19:43:16,414 INFO l.Log [main] Serializing response
+2021-12-16 19:43:16,415 INFO l.Log [main] Response sent
+2021-12-16 19:43:16,415 INFO l.Log [main] Request{commandName='add', product=null}
+2021-12-16 19:43:38,425 INFO l.Log [main] Deserialization request
+2021-12-16 19:43:38,426 INFO l.Log [main] request received
+2021-12-16 19:43:38,426 INFO l.Log [main] Processing request
+2021-12-16 19:43:38,426 INFO l.Log [main] Try to process add command
+2021-12-16 19:43:38,426 INFO l.Log [main] Sending response
+2021-12-16 19:43:38,426 INFO l.Log [main] Serializing response
+2021-12-16 19:43:38,426 INFO l.Log [main] Response sent
+2021-12-16 19:43:38,426 INFO l.Log [main] Request{commandName='add', product=Product{id=4, name='fsd', coordinates=Coordinates{x=12.0, y=12}, creationDate=2021-12-16T19:43:38.425, price=4, partNumber='1', manufactureCost=1, unitOfMeasure=PCS, manufacturer=model.Organization@7133da86}}
+2021-12-16 19:43:40,426 INFO l.Log [main] Deserialization request
+2021-12-16 19:43:40,426 INFO l.Log [main] request received
+2021-12-16 19:43:40,426 INFO l.Log [main] Processing request
+2021-12-16 19:43:40,426 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:43:40,426 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:43:40,426 INFO l.Log [main] Sending response
+2021-12-16 19:43:40,426 INFO l.Log [main] Serializing response
+2021-12-16 19:43:40,427 INFO l.Log [main] Response sent
+2021-12-16 19:43:40,427 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:43:40,427 INFO l.Log [main] Deserialization request
+2021-12-16 19:43:40,427 INFO l.Log [main] request received
+2021-12-16 19:43:40,427 INFO l.Log [main] Processing request
+2021-12-16 19:43:40,427 INFO l.Log [main] Try to process show command
+2021-12-16 19:43:40,427 INFO l.Log [main] Sending response
+2021-12-16 19:43:40,427 INFO l.Log [main] Serializing response
+2021-12-16 19:43:40,427 INFO l.Log [main] Response sent
+2021-12-16 19:43:40,427 INFO l.Log [main] Request{commandName='show', product=null}
+2021-12-16 19:43:43,428 INFO l.Log [main] Deserialization request
+2021-12-16 19:43:43,428 INFO l.Log [main] request received
+2021-12-16 19:43:43,428 INFO l.Log [main] Processing request
+2021-12-16 19:43:43,428 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:43:43,428 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:43:43,428 INFO l.Log [main] Sending response
+2021-12-16 19:43:43,428 INFO l.Log [main] Serializing response
+2021-12-16 19:43:43,429 INFO l.Log [main] Response sent
+2021-12-16 19:43:43,429 INFO l.Log [main] Request{commandName='help', product=null}
+2021-12-16 19:43:43,429 INFO l.Log [main] Deserialization request
+2021-12-16 19:43:43,429 INFO l.Log [main] request received
+2021-12-16 19:43:43,429 INFO l.Log [main] Processing request
+2021-12-16 19:43:43,429 INFO l.Log [main] Try to process help command
+2021-12-16 19:43:43,429 INFO l.Log [main] Sending response
+2021-12-16 19:43:43,429 INFO l.Log [main] Serializing response
+2021-12-16 19:43:43,429 INFO l.Log [main] Response sent
+2021-12-16 19:43:43,430 INFO l.Log [main] Request{commandName='help', product=null}
+2021-12-16 19:43:51,433 INFO l.Log [main] Deserialization request
+2021-12-16 19:43:51,433 INFO l.Log [main] request received
+2021-12-16 19:43:51,433 INFO l.Log [main] Processing request
+2021-12-16 19:43:51,433 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:43:51,433 INFO l.Log [main] Forming a query with a negative answer
+2021-12-16 19:43:51,433 INFO l.Log [main] Sending response
+2021-12-16 19:43:51,433 INFO l.Log [main] Serializing response
+2021-12-16 19:43:51,434 INFO l.Log [main] Response sent
+2021-12-16 19:43:51,434 INFO l.Log [main] Request{commandName='min_by_manufacturer', product=null}
+2021-12-16 19:43:51,434 INFO l.Log [main] Deserialization request
+2021-12-16 19:43:51,434 INFO l.Log [main] request received
+2021-12-16 19:43:51,434 INFO l.Log [main] Processing request
+2021-12-16 19:43:51,434 INFO l.Log [main] Try to process min_by_manufacturer command
+2021-12-16 19:43:51,436 INFO l.Log [main] Sending response
+2021-12-16 19:43:51,436 INFO l.Log [main] Serializing response
+2021-12-16 19:43:51,436 INFO l.Log [main] Response sent
+2021-12-16 19:43:51,436 INFO l.Log [main] Request{commandName='min_by_manufacturer', product=null}
+2021-12-16 19:44:24,257 ERROR l.Log [main] java.io.IOException: An existing connection was forcibly closed by the remote host
+2021-12-16 19:44:24,257 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@7205765b
+2021-12-16 19:45:14,111 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 19:45:20,995 INFO l.Log [main] Connected to the client at /127.0.0.1:58884
+2021-12-16 19:45:28,521 ERROR l.Log [main] java.io.IOException: An existing connection was forcibly closed by the remote host
+2021-12-16 19:45:28,521 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@3a7442c7
+2021-12-16 19:45:28,523 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 19:45:32,821 INFO l.Log [main] Connected to the client at /127.0.0.1:58896
+2021-12-16 19:45:36,717 INFO l.Log [main] Deserialization request
+2021-12-16 19:45:36,722 INFO l.Log [main] request received
+2021-12-16 19:45:36,722 INFO l.Log [main] Processing request
+2021-12-16 19:45:36,722 INFO l.Log [main] Client asks if a collection object is needed to process this command
+2021-12-16 19:45:36,722 ERROR l.Log [main] [Ljava.lang.StackTraceElement;@4b29d1d2
+2021-12-16 19:45:36,722 INFO l.Log [main] Sending response
+2021-12-16 19:45:36,722 INFO l.Log [main] Serializing response
+2021-12-16 19:45:36,724 INFO l.Log [main] Response sent
+2021-12-16 19:45:36,724 INFO l.Log [main] Request{commandName='s', product=null}
+2021-12-16 19:45:43,251 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:45:43,251 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:45:43,251 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:45:43,251 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:45:43,251 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:45:43,252 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:45:43,252 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:45:43,252 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:45:52,445 INFO l.Log [main] Opened channel on port 60000
+2021-12-16 19:46:01,530 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:46:01,530 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:46:01,530 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:46:01,530 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:46:01,531 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:46:01,531 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:46:01,531 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:46:01,531 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:46:01,531 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:46:01,531 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:46:01,531 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:46:01,531 ERROR l.Log [Thread-0] effected eof
+2021-12-16 19:46:01,532 ERROR l.Log [Thread-0] effected eof
